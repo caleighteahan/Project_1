@@ -1,0 +1,1078 @@
+﻿SUMLEV,STATE,COUNTY,PLACE,COUSUB,CONCIT,PRIMGEO_FLAG,FUNCSTAT,NAME,STNAME,ESTIMATESBASE2020,POPESTIMATE2020,POPESTIMATE2021,POPESTIMATE2022
+40,6,0,0,0,0,0,A,California,California,39538245,39501653,39142991,39029342
+162,6,0,296,0,0,0,A,Adelanto city,California,38040,38128,38436,38783
+162,6,0,394,0,0,0,A,Agoura Hills city,California,20297,20227,19802,19464
+162,6,0,562,0,0,0,A,Alameda city,California,78282,78044,76246,76040
+162,6,0,674,0,0,0,A,Albany city,California,20271,20225,19823,19415
+162,6,0,884,0,0,0,A,Alhambra city,California,82868,82657,81168,80259
+162,6,0,947,0,0,0,A,Aliso Viejo city,California,52173,52205,51901,51221
+162,6,0,1444,0,0,0,A,Alturas city,California,2713,2701,2685,2658
+162,6,0,1514,0,0,0,A,Amador City city,California,198,198,201,201
+162,6,0,1640,0,0,0,A,American Canyon city,California,21843,21777,21602,21432
+162,6,0,2000,0,0,0,A,Anaheim city,California,346825,347105,346174,344461
+162,6,0,2042,0,0,0,A,Anderson city,California,11325,11330,11380,11307
+162,6,0,2112,0,0,0,A,Angels city,California,3662,3676,3762,3786
+162,6,0,2252,0,0,0,A,Antioch city,California,115305,115251,114964,115264
+162,6,0,2364,0,0,0,A,Apple Valley town,California,75789,75874,76158,75867
+162,6,0,2462,0,0,0,A,Arcadia city,California,56664,56466,55334,54857
+162,6,0,2476,0,0,0,A,Arcata city,California,18845,18788,17736,18555
+162,6,0,2868,0,0,0,A,Arroyo Grande city,California,18436,18420,18465,18380
+162,6,0,2896,0,0,0,A,Artesia city,California,16395,16341,16006,15774
+162,6,0,2924,0,0,0,A,Arvin city,California,19491,19545,19714,19611
+162,6,0,3064,0,0,0,A,Atascadero city,California,29776,29736,29723,29684
+162,6,0,3092,0,0,0,A,Atherton town,California,7186,7165,6970,6898
+162,6,0,3162,0,0,0,A,Atwater city,California,31964,31955,32153,32372
+162,6,0,3204,0,0,0,A,Auburn city,California,13778,13792,13891,13737
+162,6,0,3274,0,0,0,A,Avalon city,California,3458,3448,3373,3313
+162,6,0,3302,0,0,0,A,Avenal city,California,13694,13488,12886,13374
+162,6,0,3386,0,0,0,A,Azusa city,California,50265,50154,49289,48824
+162,6,0,3526,0,0,0,A,Bakersfield city,California,404440,405181,409079,410647
+162,6,0,3666,0,0,0,A,Baldwin Park city,California,72176,71971,70561,69455
+162,6,0,3820,0,0,0,A,Banning city,California,29522,29526,30293,30683
+162,6,0,4030,0,0,0,A,Barstow city,California,25409,25419,25452,25231
+162,6,0,4758,0,0,0,A,Beaumont city,California,53045,53523,55271,56349
+162,6,0,4870,0,0,0,A,Bell city,California,33561,33458,32774,32466
+162,6,0,4982,0,0,0,A,Bellflower city,California,79216,78975,77411,76405
+162,6,0,4996,0,0,0,A,Bell Gardens city,California,39514,39379,38555,37927
+162,6,0,5108,0,0,0,A,Belmont city,California,28332,28234,27305,26773
+162,6,0,5164,0,0,0,A,Belvedere city,California,2131,2126,2115,2080
+162,6,0,5290,0,0,0,A,Benicia city,California,27135,27091,26891,26567
+162,6,0,6000,0,0,0,A,Berkeley city,California,124324,124206,114810,118950
+162,6,0,6308,0,0,0,A,Beverly Hills city,California,32701,32581,31852,31326
+162,6,0,6434,0,0,0,A,Big Bear Lake city,California,5044,5049,5065,5031
+162,6,0,6560,0,0,0,A,Biggs city,California,1968,1951,1935,1899
+162,6,0,6798,0,0,0,A,Bishop city,California,3822,3822,3818,3771
+162,6,0,7162,0,0,0,A,Blue Lake city,California,1204,1200,1196,1183
+162,6,0,7218,0,0,0,A,Blythe city,California,18306,18020,17343,17358
+162,6,0,7946,0,0,0,A,Bradbury city,California,925,922,899,886
+162,6,0,8058,0,0,0,A,Brawley city,California,26421,26414,26543,26862
+162,6,0,8100,0,0,0,A,Brea city,California,47303,47477,47530,46993
+162,6,0,8142,0,0,0,A,Brentwood city,California,64290,64463,64931,66127
+162,6,0,8310,0,0,0,A,Brisbane city,California,4852,4838,4675,4597
+162,6,0,8758,0,0,0,A,Buellton city,California,5160,5168,5161,5106
+162,6,0,8786,0,0,0,A,Buena Park city,California,84016,83862,82951,82450
+162,6,0,8954,0,0,0,A,Burbank city,California,107335,107143,105291,103920
+162,6,0,9066,0,0,0,A,Burlingame city,California,31385,31270,30178,30559
+162,6,0,9598,0,0,0,A,Calabasas city,California,23239,23178,22889,22491
+162,6,0,9710,0,0,0,A,Calexico city,California,38616,38533,38540,38249
+162,6,0,9780,0,0,0,A,California City city,California,14969,15051,15029,15127
+162,6,0,9864,0,0,0,A,Calimesa city,California,10023,10165,10891,11017
+162,6,0,9878,0,0,0,A,Calipatria city,California,6520,6585,6385,6322
+162,6,0,9892,0,0,0,A,Calistoga city,California,5227,5215,5184,5029
+162,6,0,10046,0,0,0,A,Camarillo city,California,70740,70830,70904,70282
+162,6,0,10345,0,0,0,A,Campbell city,California,43958,43831,42753,42286
+162,6,0,10928,0,0,0,A,Canyon Lake city,California,11079,11084,11159,11142
+162,6,0,11040,0,0,0,A,Capitola city,California,9939,9923,9837,9659
+162,6,0,11194,0,0,0,A,Carlsbad city,California,114735,114896,115224,114160
+162,6,0,11250,0,0,0,A,Carmel-by-the-Sea city,California,3214,3210,3193,3146
+162,6,0,11446,0,0,0,A,Carpinteria city,California,13261,13239,13115,12950
+162,6,0,11530,0,0,0,A,Carson city,California,95553,95286,93285,92388
+162,6,0,12048,0,0,0,A,Cathedral City city,California,51498,51569,52230,52494
+162,6,0,12524,0,0,0,A,Ceres city,California,49279,49312,49308,48988
+162,6,0,12552,0,0,0,A,Cerritos city,California,49573,49402,48340,47475
+162,6,0,13014,0,0,0,A,Chico city,California,102816,102135,100162,101299
+162,6,0,13210,0,0,0,A,Chino city,California,91387,91131,91716,93140
+162,6,0,13214,0,0,0,A,Chino Hills city,California,78426,78468,78579,77949
+162,6,0,13294,0,0,0,A,Chowchilla city,California,19046,18815,18807,18738
+162,6,0,13392,0,0,0,A,Chula Vista city,California,275500,276041,277008,279170
+162,6,0,13588,0,0,0,A,Citrus Heights city,California,87575,87521,87111,86433
+162,6,0,13756,0,0,0,A,Claremont city,California,37261,37183,36674,36001
+162,6,0,13882,0,0,0,A,Clayton city,California,11072,11062,10985,10904
+162,6,0,13945,0,0,0,A,Clearlake city,California,16687,16702,16805,16693
+162,6,0,14190,0,0,0,A,Cloverdale city,California,8998,8993,8986,8809
+162,6,0,14218,0,0,0,A,Clovis city,California,120160,120660,123007,124556
+162,6,0,14260,0,0,0,A,Coachella city,California,41938,42025,42543,42835
+162,6,0,14274,0,0,0,A,Coalinga city,California,17601,17654,17155,17024
+162,6,0,14498,0,0,0,A,Colfax city,California,1987,1991,2015,2021
+162,6,0,14736,0,0,0,A,Colma town,California,1502,1544,1580,1550
+162,6,0,14890,0,0,0,A,Colton city,California,53892,53970,54272,53918
+162,6,0,14946,0,0,0,A,Colusa city,California,6404,6398,6396,6368
+162,6,0,14974,0,0,0,A,Commerce city,California,12363,12317,12042,11828
+162,6,0,15044,0,0,0,A,Compton city,California,95712,95411,93456,91988
+162,6,0,16000,0,0,0,A,Concord city,California,125411,125256,124337,122625
+162,6,0,16224,0,0,0,A,Corcoran city,California,22340,22709,22644,22837
+162,6,0,16322,0,0,0,A,Corning city,California,8243,8232,8196,8226
+162,6,0,16350,0,0,0,A,Corona city,California,157154,157549,159782,159567
+162,6,0,16378,0,0,0,A,Coronado city,California,20194,18136,19040,18702
+162,6,0,16462,0,0,0,A,Corte Madera town,California,10226,10217,10187,10006
+162,6,0,16532,0,0,0,A,Costa Mesa city,California,111926,111797,110885,109521
+162,6,0,16560,0,0,0,A,Cotati city,California,7592,7580,7529,7453
+162,6,0,16742,0,0,0,A,Covina city,California,51275,51173,50370,49489
+162,6,0,17022,0,0,0,A,Crescent City city,California,6673,6511,6170,5983
+162,6,0,17498,0,0,0,A,Cudahy city,California,22808,22740,22256,21969
+162,6,0,17568,0,0,0,A,Culver City city,California,40769,40675,39987,39515
+162,6,0,17610,0,0,0,A,Cupertino city,California,60363,60157,58578,57856
+162,6,0,17750,0,0,0,A,Cypress city,California,50144,50171,49858,49243
+162,6,0,17918,0,0,0,A,Daly City city,California,104973,104633,101482,100007
+162,6,0,17946,0,0,0,A,Dana Point city,California,33100,33066,32794,32465
+162,6,0,17988,0,0,0,A,Danville town,California,43571,43527,43294,42732
+162,6,0,18100,0,0,0,A,Davis city,California,66858,66760,67066,67048
+162,6,0,18394,0,0,0,A,Delano city,California,51420,49852,50668,50843
+162,6,0,18506,0,0,0,A,Del Mar city,California,3950,3946,3918,3882
+162,6,0,18688,0,0,0,A,Del Rey Oaks city,California,1591,1588,1578,1553
+162,6,0,18996,0,0,0,A,Desert Hot Springs city,California,32499,32498,32716,33091
+162,6,0,19192,0,0,0,A,Diamond Bar city,California,55070,54896,53763,52855
+162,6,0,19318,0,0,0,A,Dinuba city,California,24599,24666,25167,25285
+162,6,0,19402,0,0,0,A,Dixon city,California,18989,18986,19028,19143
+162,6,0,19584,0,0,0,A,Dorris city,California,862,860,864,851
+162,6,0,19612,0,0,0,A,Dos Palos city,California,5800,5797,5819,5820
+162,6,0,19766,0,0,0,A,Downey city,California,114358,113973,111570,109934
+162,6,0,19990,0,0,0,A,Duarte city,California,21722,21662,21271,21807
+162,6,0,20018,0,0,0,A,Dublin city,California,72588,72524,71516,72060
+162,6,0,20242,0,0,0,A,Dunsmuir city,California,1706,1702,1711,1687
+162,6,0,20956,0,0,0,A,East Palo Alto city,California,30040,29931,28897,28383
+162,6,0,21230,0,0,0,A,Eastvale city,California,69752,69966,71341,71024
+162,6,0,21712,0,0,0,A,El Cajon city,California,106183,106126,105474,104414
+162,6,0,21782,0,0,0,A,El Centro city,California,44316,44207,44201,43811
+162,6,0,21796,0,0,0,A,El Cerrito city,California,25958,25967,25878,25583
+162,6,0,22020,0,0,0,A,Elk Grove city,California,176141,176732,178283,177558
+162,6,0,22230,0,0,0,A,El Monte city,California,109447,109111,106918,105312
+162,6,0,22300,0,0,0,A,El Paso de Robles (Paso Robles) city,California,31496,31555,31777,31544
+162,6,0,22412,0,0,0,A,El Segundo city,California,17265,17212,16867,16622
+162,6,0,22594,0,0,0,A,Emeryville city,California,12902,12939,12875,12913
+162,6,0,22678,0,0,0,A,Encinitas city,California,62002,61988,61768,61369
+162,6,0,22790,0,0,0,A,Escalon city,California,7471,7477,7510,7448
+162,6,0,22804,0,0,0,A,Escondido city,California,151074,151139,150679,150270
+162,6,0,22972,0,0,0,A,Etna city,California,676,675,679,671
+162,6,0,23042,0,0,0,A,Eureka city,California,26561,26477,26369,26129
+162,6,0,23126,0,0,0,A,Exeter city,California,10323,10327,10321,10267
+162,6,0,23168,0,0,0,A,Fairfax town,California,7600,7586,7557,7423
+162,6,0,23182,0,0,0,A,Fairfield city,California,119872,119874,119835,119338
+162,6,0,23616,0,0,0,A,Farmersville city,California,10408,10408,10377,10324
+162,6,0,23910,0,0,0,A,Ferndale city,California,1402,1404,1406,1398
+162,6,0,24092,0,0,0,A,Fillmore city,California,16426,16409,16508,16657
+162,6,0,24134,0,0,0,A,Firebaugh city,California,8098,8089,8109,8418
+162,6,0,24638,0,0,0,A,Folsom city,California,80463,80749,81687,83269
+162,6,0,24680,0,0,0,A,Fontana city,California,208387,208620,210540,212475
+162,6,0,25058,0,0,0,A,Fort Bragg city,California,6986,6968,6967,6881
+162,6,0,25128,0,0,0,A,Fort Jones city,California,695,693,696,689
+162,6,0,25296,0,0,0,A,Fortuna city,California,12517,12518,12518,12516
+162,6,0,25338,0,0,0,A,Foster City city,California,33809,33685,32575,32026
+162,6,0,25380,0,0,0,A,Fountain Valley city,California,57054,56967,56440,55930
+162,6,0,25436,0,0,0,A,Fowler city,California,6715,6764,6950,7154
+162,6,0,26000,0,0,0,A,Fremont city,California,230493,230194,226532,223871
+162,6,0,27000,0,0,0,A,Fresno city,California,542252,542447,543910,545567
+162,6,0,28000,0,0,0,A,Fullerton city,California,143638,143419,140559,140541
+162,6,0,28112,0,0,0,A,Galt city,California,25387,25405,25400,25411
+162,6,0,28168,0,0,0,A,Gardena city,California,61022,60875,59721,58843
+162,6,0,29000,0,0,0,A,Garden Grove city,California,171973,171759,170511,169254
+162,6,0,29504,0,0,0,A,Gilroy city,California,59532,59383,58115,58005
+162,6,0,30000,0,0,0,A,Glendale city,California,196534,195995,192272,189221
+162,6,0,30014,0,0,0,A,Glendora city,California,52577,52497,51592,50824
+162,6,0,30378,0,0,0,A,Goleta city,California,32696,32738,32841,32432
+162,6,0,30392,0,0,0,A,Gonzales city,California,8649,8633,8577,8439
+162,6,0,30658,0,0,0,A,Grand Terrace city,California,13145,13166,13218,13109
+162,6,0,30798,0,0,0,A,Grass Valley city,California,14013,14009,14144,13930
+162,6,0,30994,0,0,0,A,Greenfield city,California,18939,18980,19075,19359
+162,6,0,31260,0,0,0,A,Gridley city,California,7421,7370,7360,7227
+162,6,0,31393,0,0,0,A,Grover Beach city,California,12707,12696,12719,12619
+162,6,0,31414,0,0,0,A,Guadalupe city,California,8055,8124,8537,8657
+162,6,0,31568,0,0,0,A,Gustine city,California,6150,6150,6178,6181
+162,6,0,31708,0,0,0,A,Half Moon Bay city,California,11802,11765,11381,11176
+162,6,0,31960,0,0,0,A,Hanford city,California,58013,58098,58468,58470
+162,6,0,32506,0,0,0,A,Hawaiian Gardens city,California,14146,14101,13808,13593
+162,6,0,32548,0,0,0,A,Hawthorne city,California,88077,87804,86010,84563
+162,6,0,33000,0,0,0,A,Hayward city,California,162948,162602,158445,156754
+162,6,0,33056,0,0,0,A,Healdsburg city,California,11349,11347,11318,11709
+162,6,0,33182,0,0,0,A,Hemet city,California,89818,89844,90480,90689
+162,6,0,33308,0,0,0,A,Hercules city,California,26017,26009,26114,25920
+162,6,0,33364,0,0,0,A,Hermosa Beach city,California,19736,19687,19278,18985
+162,6,0,33434,0,0,0,A,Hesperia city,California,99838,100090,100847,100744
+162,6,0,33518,0,0,0,A,Hidden Hills city,California,1725,1722,1700,1694
+162,6,0,33588,0,0,0,A,Highland city,California,56996,57034,57115,56705
+162,6,0,33798,0,0,0,A,Hillsborough town,California,11384,11358,11030,10956
+162,6,0,34120,0,0,0,A,Hollister city,California,41682,41909,43326,44218
+162,6,0,34246,0,0,0,A,Holtville city,California,5607,5600,5583,5513
+162,6,0,34904,0,0,0,A,Hughson city,California,7488,7499,7522,7734
+162,6,0,36000,0,0,0,A,Huntington Beach city,California,198723,198410,196463,194310
+162,6,0,36056,0,0,0,A,Huntington Park city,California,54883,54712,53584,52633
+162,6,0,36084,0,0,0,A,Huron city,California,6209,6203,6225,6240
+162,6,0,36280,0,0,0,A,Imperial city,California,20295,20417,21021,21233
+162,6,0,36294,0,0,0,A,Imperial Beach city,California,26131,26127,25997,25791
+162,6,0,36434,0,0,0,A,Indian Wells city,California,4768,4775,4844,4860
+162,6,0,36448,0,0,0,A,Indio city,California,89126,89274,90528,91980
+162,6,0,36490,0,0,0,A,Industry city,California,261,260,257,255
+162,6,0,36546,0,0,0,A,Inglewood city,California,107759,107384,105097,103621
+162,6,0,36672,0,0,0,A,Ione city,California,5142,5171,5234,5364
+162,6,0,36770,0,0,0,A,Irvine city,California,307665,308974,305096,313685
+162,6,0,36826,0,0,0,A,Irwindale city,California,1467,1462,1438,1413
+162,6,0,36882,0,0,0,A,Isleton city,California,797,797,793,782
+162,6,0,36980,0,0,0,A,Jackson city,California,5010,5002,5078,5113
+162,6,0,37692,0,0,0,A,Jurupa Valley city,California,105054,105313,106982,107609
+162,6,0,38226,0,0,0,A,Kerman city,California,16010,16039,16172,16208
+162,6,0,38520,0,0,0,A,King City city,California,13330,13351,13436,13738
+162,6,0,38562,0,0,0,A,Kingsburg city,California,12380,12448,12664,12613
+162,6,0,39003,0,0,0,A,La Cañada Flintridge city,California,20572,20506,20077,19752
+162,6,0,39122,0,0,0,A,Lafayette city,California,25399,25371,25230,25044
+162,6,0,39178,0,0,0,A,Laguna Beach city,California,23034,23000,22775,22583
+162,6,0,39220,0,0,0,A,Laguna Hills city,California,31365,31306,30964,30568
+162,6,0,39248,0,0,0,A,Laguna Niguel city,California,64347,64226,64140,63742
+162,6,0,39259,0,0,0,A,Laguna Woods city,California,17650,17617,17421,17192
+162,6,0,39290,0,0,0,A,La Habra city,California,63118,63096,62599,61978
+162,6,0,39304,0,0,0,A,La Habra Heights city,California,5681,5661,5545,5447
+162,6,0,39486,0,0,0,A,Lake Elsinore city,California,70244,70333,71505,71898
+162,6,0,39496,0,0,0,A,Lake Forest city,California,85862,85848,85631,85638
+162,6,0,39710,0,0,0,A,Lakeport city,California,5029,5033,5063,5026
+162,6,0,39892,0,0,0,A,Lakewood city,California,82497,82213,80473,79063
+162,6,0,40004,0,0,0,A,La Mesa city,California,61119,61070,60733,60360
+162,6,0,40032,0,0,0,A,La Mirada city,California,47987,47839,46909,46323
+162,6,0,40130,0,0,0,A,Lancaster city,California,173511,173040,170074,169185
+162,6,0,40256,0,0,0,A,La Palma city,California,15588,15559,15388,15194
+162,6,0,40340,0,0,0,A,La Puente city,California,38054,37964,37232,36636
+162,6,0,40354,0,0,0,A,La Quinta city,California,37554,37630,38169,38392
+162,6,0,40438,0,0,0,A,Larkspur city,California,13068,13045,12981,12754
+162,6,0,40704,0,0,0,A,Lathrop city,California,28702,29052,30601,33670
+162,6,0,40830,0,0,0,A,La Verne city,California,31581,31500,30883,30380
+162,6,0,40886,0,0,0,A,Lawndale city,California,31826,31722,31088,30576
+162,6,0,41124,0,0,0,A,Lemon Grove city,California,27635,27614,27431,27224
+162,6,0,41152,0,0,0,A,Lemoore city,California,27030,27093,27312,27185
+162,6,0,41474,0,0,0,A,Lincoln city,California,49747,49817,50658,52534
+162,6,0,41712,0,0,0,A,Lindsay city,California,12652,12650,12627,12537
+162,6,0,41936,0,0,0,A,Live Oak city,California,9110,9152,9295,9428
+162,6,0,41992,0,0,0,A,Livermore city,California,87965,87880,86388,84701
+162,6,0,42006,0,0,0,A,Livingston city,California,14177,14254,14626,14760
+162,6,0,42202,0,0,0,A,Lodi city,California,66336,66443,67023,67258
+162,6,0,42370,0,0,0,A,Loma Linda city,California,24789,24828,25096,25129
+162,6,0,42468,0,0,0,A,Lomita city,California,20924,20849,20405,20053
+162,6,0,42524,0,0,0,A,Lompoc city,California,44449,44403,43278,43736
+162,6,0,43000,0,0,0,A,Long Beach city,California,466775,465448,454334,451307
+162,6,0,43140,0,0,0,A,Loomis town,California,6831,6833,6871,6856
+162,6,0,43224,0,0,0,A,Los Alamitos city,California,11782,11771,11696,11550
+162,6,0,43280,0,0,0,A,Los Altos city,California,31467,31353,30554,30424
+162,6,0,43294,0,0,0,A,Los Altos Hills town,California,8516,8490,8294,8168
+162,6,0,44000,0,0,0,A,Los Angeles city,California,3898767,3895836,3837986,3822238
+162,6,0,44028,0,0,0,A,Los Banos city,California,45528,45675,46688,47044
+162,6,0,44112,0,0,0,A,Los Gatos town,California,33539,33427,32582,32402
+162,6,0,44364,0,0,0,A,Loyalton city,California,740,738,755,738
+162,6,0,44574,0,0,0,A,Lynwood city,California,67256,66815,64824,64086
+162,6,0,44826,0,0,0,A,McFarland city,California,14179,13992,14086,14019
+162,6,0,45022,0,0,0,A,Madera city,California,66229,66461,67865,68050
+162,6,0,45246,0,0,0,A,Malibu city,California,10649,10617,10416,10370
+162,6,0,45358,0,0,0,A,Mammoth Lakes town,California,7200,7222,7277,7093
+162,6,0,45400,0,0,0,A,Manhattan Beach city,California,35503,35377,34601,34137
+162,6,0,45484,0,0,0,A,Manteca city,California,83507,83834,85716,86928
+162,6,0,45736,0,0,0,A,Maricopa city,California,1023,1023,1023,1020
+162,6,0,45778,0,0,0,A,Marina city,California,22348,22322,22115,22503
+162,6,0,46114,0,0,0,A,Martinez city,California,37273,37187,36871,36447
+162,6,0,46170,0,0,0,A,Marysville city,California,12841,12854,12715,12704
+162,6,0,46492,0,0,0,A,Maywood city,California,25123,25040,24522,24122
+162,6,0,46828,0,0,0,A,Mendota city,California,12595,12647,12734,12618
+162,6,0,46842,0,0,0,A,Menifee city,California,102526,103158,106365,109399
+162,6,0,46870,0,0,0,A,Menlo Park city,California,33784,33669,32549,32295
+162,6,0,46898,0,0,0,A,Merced city,California,86370,86648,89515,91563
+162,6,0,47486,0,0,0,A,Millbrae city,California,23213,23128,22317,22071
+162,6,0,47710,0,0,0,A,Mill Valley city,California,14230,14211,14157,14006
+162,6,0,47766,0,0,0,A,Milpitas city,California,80271,80127,78218,77738
+162,6,0,48256,0,0,0,A,Mission Viejo city,California,93639,93464,92436,91776
+162,6,0,48354,0,0,0,A,Modesto city,California,218467,218654,218948,218069
+162,6,0,48648,0,0,0,A,Monrovia city,California,37937,37833,37456,36893
+162,6,0,48690,0,0,0,A,Montague city,California,1219,1216,1223,1209
+162,6,0,48788,0,0,0,A,Montclair city,California,37886,37904,38040,37714
+162,6,0,48816,0,0,0,A,Montebello city,California,62623,62410,61125,60569
+162,6,0,48872,0,0,0,A,Monterey city,California,30230,30184,29952,29571
+162,6,0,48914,0,0,0,A,Monterey Park city,California,61109,60891,59586,58554
+162,6,0,48956,0,0,0,A,Monte Sereno city,California,3481,3471,3389,3343
+162,6,0,49138,0,0,0,A,Moorpark city,California,36290,36228,35974,35514
+162,6,0,49187,0,0,0,A,Moraga town,California,16877,16868,16834,16707
+162,6,0,49270,0,0,0,A,Moreno Valley city,California,208640,209107,211564,211924
+162,6,0,49278,0,0,0,A,Morgan Hill city,California,45481,45492,45386,44973
+162,6,0,49362,0,0,0,A,Morro Bay city,California,10757,10751,10785,10696
+162,6,0,49670,0,0,0,A,Mountain View city,California,82534,82430,81675,81059
+162,6,0,49852,0,0,0,A,Mount Shasta city,California,3224,3219,3236,3192
+162,6,0,50076,0,0,0,A,Murrieta city,California,110953,111318,113006,113783
+162,6,0,50258,0,0,0,A,Napa city,California,79251,79039,78855,78315
+162,6,0,50398,0,0,0,A,National City city,California,56172,56115,55927,55550
+162,6,0,50734,0,0,0,A,Needles city,California,4930,4921,4897,4858
+162,6,0,50874,0,0,0,A,Nevada City city,California,3147,3147,3172,3112
+162,6,0,50916,0,0,0,A,Newark city,California,47525,47612,47134,47312
+162,6,0,51140,0,0,0,A,Newman city,California,12389,12387,12367,12272
+162,6,0,51182,0,0,0,A,Newport Beach city,California,85235,85208,84713,83993
+162,6,0,51560,0,0,0,A,Norco city,California,26299,25394,24671,25042
+162,6,0,52526,0,0,0,A,Norwalk city,California,102762,102410,100313,98537
+162,6,0,52582,0,0,0,A,Novato city,California,53206,53100,52904,52184
+162,6,0,52694,0,0,0,A,Oakdale city,California,23182,23201,23247,23176
+162,6,0,53000,0,0,0,A,Oakland city,California,440660,440873,436291,430553
+162,6,0,53070,0,0,0,A,Oakley city,California,43354,43468,43821,44688
+162,6,0,53322,0,0,0,A,Oceanside city,California,174048,173914,172919,172199
+162,6,0,53476,0,0,0,A,Ojai city,California,7627,7622,7604,7540
+162,6,0,53896,0,0,0,A,Ontario city,California,175266,175852,177845,179061
+162,6,0,53980,0,0,0,A,Orange city,California,139902,139428,137295,136178
+162,6,0,54008,0,0,0,A,Orange Cove city,California,9649,9639,9615,9525
+162,6,0,54232,0,0,0,A,Orinda city,California,19503,19516,19503,19355
+162,6,0,54274,0,0,0,A,Orland city,California,8306,8302,8311,8217
+162,6,0,54386,0,0,0,A,Oroville city,California,20104,19958,19935,20041
+162,6,0,54652,0,0,0,A,Oxnard city,California,202067,202244,202054,200415
+162,6,0,54806,0,0,0,A,Pacifica city,California,38633,38496,37155,36517
+162,6,0,54848,0,0,0,A,Pacific Grove city,California,15100,15075,15000,14791
+162,6,0,55156,0,0,0,A,Palmdale city,California,169415,168863,165452,163463
+162,6,0,55184,0,0,0,A,Palm Desert city,California,51167,51200,51591,51583
+162,6,0,55254,0,0,0,A,Palm Springs city,California,44581,44624,45079,45223
+162,6,0,55282,0,0,0,A,Palo Alto city,California,68586,68385,66735,66010
+162,6,0,55380,0,0,0,A,Palos Verdes Estates city,California,13353,13309,13026,12792
+162,6,0,55520,0,0,0,A,Paradise town,California,4764,4744,5274,6516
+162,6,0,55618,0,0,0,A,Paramount city,California,53748,53578,52485,51653
+162,6,0,55856,0,0,0,A,Parlier city,California,14579,14616,14689,14554
+162,6,0,56000,0,0,0,A,Pasadena city,California,138719,138304,135932,134211
+162,6,0,56112,0,0,0,A,Patterson city,California,23784,23788,23813,23833
+162,6,0,56700,0,0,0,A,Perris city,California,78705,78861,79825,80263
+162,6,0,56784,0,0,0,A,Petaluma city,California,59778,59776,59589,58652
+162,6,0,56924,0,0,0,A,Pico Rivera city,California,62079,61890,60696,59781
+162,6,0,56938,0,0,0,A,Piedmont city,California,11277,11251,11017,10811
+162,6,0,57288,0,0,0,A,Pinole city,California,19029,19003,18858,18582
+162,6,0,57414,0,0,0,A,Pismo Beach city,California,8073,8059,8041,8044
+162,6,0,57456,0,0,0,A,Pittsburg city,California,76409,76605,76662,77572
+162,6,0,57526,0,0,0,A,Placentia city,California,51814,51723,51236,51951
+162,6,0,57540,0,0,0,A,Placerville city,California,10742,10732,10816,10664
+162,6,0,57764,0,0,0,A,Pleasant Hill city,California,34629,34600,34404,33913
+162,6,0,57792,0,0,0,A,Pleasanton city,California,79856,79676,77904,76689
+162,6,0,57834,0,0,0,A,Plymouth city,California,1078,1079,1099,1112
+162,6,0,57876,0,0,0,A,Point Arena city,California,463,466,472,465
+162,6,0,58072,0,0,0,A,Pomona city,California,151445,151033,147125,146017
+162,6,0,58240,0,0,0,A,Porterville city,California,62629,62666,62788,62998
+162,6,0,58296,0,0,0,A,Port Hueneme city,California,21959,21960,21735,21407
+162,6,0,58352,0,0,0,A,Portola city,California,2098,2094,2108,2041
+162,6,0,58380,0,0,0,A,Portola Valley town,California,4453,4441,4296,4244
+162,6,0,58520,0,0,0,A,Poway city,California,48837,48779,48408,48078
+162,6,0,59444,0,0,0,A,Rancho Cordova city,California,79332,79503,80210,80598
+162,6,0,59451,0,0,0,A,Rancho Cucamonga city,California,174624,174571,175169,176336
+162,6,0,59500,0,0,0,A,Rancho Mirage city,California,16990,17044,17339,17633
+162,6,0,59514,0,0,0,A,Rancho Palos Verdes city,California,42279,42140,41256,40527
+162,6,0,59587,0,0,0,A,Rancho Santa Margarita city,California,47961,47873,47340,46722
+162,6,0,59892,0,0,0,A,Red Bluff city,California,14709,14666,14575,14416
+162,6,0,59920,0,0,0,A,Redding city,California,93609,93479,93422,92906
+162,6,0,59962,0,0,0,A,Redlands city,California,73170,73257,73538,73849
+162,6,0,60018,0,0,0,A,Redondo Beach city,California,71560,71333,69898,68918
+162,6,0,60102,0,0,0,A,Redwood City city,California,84303,84131,81522,80512
+162,6,0,60242,0,0,0,A,Reedley city,California,25230,25221,25174,25441
+162,6,0,60466,0,0,0,A,Rialto city,California,104048,104125,104305,103545
+162,6,0,60620,0,0,0,A,Richmond city,California,116432,116367,115731,114301
+162,6,0,60704,0,0,0,A,Ridgecrest city,California,27962,27982,28150,28346
+162,6,0,60900,0,0,0,A,Rio Dell city,California,3379,3374,3388,3358
+162,6,0,60984,0,0,0,A,Rio Vista city,California,10016,10105,10246,10375
+162,6,0,61026,0,0,0,A,Ripon city,California,16016,16074,16424,16272
+162,6,0,61068,0,0,0,A,Riverbank city,California,24862,24872,24858,24826
+162,6,0,62000,0,0,0,A,Riverside city,California,315014,315469,313912,320764
+162,6,0,62364,0,0,0,A,Rocklin city,California,71598,71861,73082,73857
+162,6,0,62546,0,0,0,A,Rohnert Park city,California,44398,44436,44573,44326
+162,6,0,62602,0,0,0,A,Rolling Hills city,California,1740,1734,1699,1676
+162,6,0,62644,0,0,0,A,Rolling Hills Estates city,California,8276,8263,8146,8018
+162,6,0,62896,0,0,0,A,Rosemead city,California,51187,51082,50221,49791
+162,6,0,62938,0,0,0,A,Roseville city,California,147796,148486,152095,154817
+162,6,0,62980,0,0,0,A,Ross town,California,2344,2342,2339,2300
+162,6,0,64000,0,0,0,A,Sacramento city,California,524924,525668,525951,528001
+162,6,0,64140,0,0,0,A,St. Helena city,California,5436,5425,5391,5196
+162,6,0,64224,0,0,0,A,Salinas city,California,163542,163296,163076,161020
+162,6,0,64434,0,0,0,A,San Anselmo town,California,12831,12804,12747,12569
+162,6,0,65000,0,0,0,A,San Bernardino city,California,222068,222028,221242,220328
+162,6,0,65028,0,0,0,A,San Bruno city,California,43893,43783,42349,41533
+162,6,0,65042,0,0,0,A,San Buenaventura (Ventura) city,California,110736,110518,110027,109527
+162,6,0,65070,0,0,0,A,San Carlos city,California,30726,30793,30079,29586
+162,6,0,65084,0,0,0,A,San Clemente city,California,64282,64257,63842,63457
+162,6,0,65112,0,0,0,A,Sand City city,California,322,323,330,328
+162,6,0,66000,0,0,0,A,San Diego city,California,1386960,1386872,1374484,1381162
+162,6,0,66070,0,0,0,A,San Dimas city,California,34920,34804,34086,33535
+162,6,0,66140,0,0,0,A,San Fernando city,California,23966,23970,23757,23685
+162,6,0,67000,0,0,0,A,San Francisco city,California,873959,870393,811253,808437
+162,6,0,67042,0,0,0,A,San Gabriel city,California,39575,39449,38676,38140
+162,6,0,67056,0,0,0,A,Sanger city,California,26615,26624,26721,26600
+162,6,0,67112,0,0,0,A,San Jacinto city,California,53894,54064,55287,55470
+162,6,0,67126,0,0,0,A,San Joaquin city,California,3702,3698,3689,3704
+162,6,0,68000,0,0,0,A,San Jose city,California,1013221,1009830,981466,971233
+162,6,0,68014,0,0,0,A,San Juan Bautista city,California,2085,2091,2141,2124
+162,6,0,68028,0,0,0,A,San Juan Capistrano city,California,35198,35180,34940,34548
+162,6,0,68084,0,0,0,A,San Leandro city,California,90998,90707,88440,86762
+162,6,0,68154,0,0,0,A,San Luis Obispo city,California,47107,47152,47633,48341
+162,6,0,68196,0,0,0,A,San Marcos city,California,94862,94900,93756,94854
+162,6,0,68224,0,0,0,A,San Marino city,California,12511,12476,12240,12039
+162,6,0,68252,0,0,0,A,San Mateo city,California,105665,105327,102400,100984
+162,6,0,68294,0,0,0,A,San Pablo city,California,32122,32078,31847,31389
+162,6,0,68364,0,0,0,A,San Rafael city,California,61277,61130,60814,59971
+162,6,0,68378,0,0,0,A,San Ramon city,California,86332,86616,87023,85953
+162,6,0,69000,0,0,0,A,Santa Ana city,California,310555,309921,308771,308189
+162,6,0,69070,0,0,0,A,Santa Barbara city,California,88676,88676,88316,87533
+162,6,0,69084,0,0,0,A,Santa Clara city,California,127861,127894,127958,126930
+162,6,0,69088,0,0,0,A,Santa Clarita city,California,228679,228065,224320,221345
+162,6,0,69112,0,0,0,A,Santa Cruz city,California,62968,62885,54941,61800
+162,6,0,69154,0,0,0,A,Santa Fe Springs city,California,19210,19149,18755,18439
+162,6,0,69196,0,0,0,A,Santa Maria city,California,109695,109742,109647,110125
+162,6,0,70000,0,0,0,A,Santa Monica city,California,93075,92803,91250,89947
+162,6,0,70042,0,0,0,A,Santa Paula city,California,30673,30646,30763,31018
+162,6,0,70098,0,0,0,A,Santa Rosa city,California,178128,177835,177149,177181
+162,6,0,70224,0,0,0,A,Santee city,California,60047,59952,59296,59051
+162,6,0,70280,0,0,0,A,Saratoga city,California,31046,30941,30132,29903
+162,6,0,70364,0,0,0,A,Sausalito city,California,7267,7252,7219,7095
+162,6,0,70588,0,0,0,A,Scotts Valley city,California,12233,12235,12215,12073
+162,6,0,70686,0,0,0,A,Seal Beach city,California,25229,25183,24921,24627
+162,6,0,70742,0,0,0,A,Seaside city,California,32382,32323,32074,31478
+162,6,0,70770,0,0,0,A,Sebastopol city,California,7529,7521,7477,7338
+162,6,0,70882,0,0,0,A,Selma city,California,24671,24658,24635,24430
+162,6,0,71106,0,0,0,A,Shafter city,California,19956,20023,20113,21282
+162,6,0,71225,0,0,0,A,Shasta Lake city,California,10364,10371,10407,10335
+162,6,0,71806,0,0,0,A,Sierra Madre city,California,11275,11238,11005,10809
+162,6,0,71876,0,0,0,A,Signal Hill city,California,11850,11809,11559,11381
+162,6,0,72016,0,0,0,A,Simi Valley city,California,126373,126335,126053,124398
+162,6,0,72506,0,0,0,A,Solana Beach city,California,12938,12931,12854,12802
+162,6,0,72520,0,0,0,A,Soledad city,California,24929,24692,24702,24190
+162,6,0,72576,0,0,0,A,Solvang city,California,6126,6117,6058,5986
+162,6,0,72646,0,0,0,A,Sonoma city,California,10734,10719,10669,10466
+162,6,0,72674,0,0,0,A,Sonora city,California,5008,5000,5008,4956
+162,6,0,72996,0,0,0,A,South El Monte city,California,19561,19612,19557,19602
+162,6,0,73080,0,0,0,A,South Gate city,California,92727,92434,91012,90926
+162,6,0,73108,0,0,0,A,South Lake Tahoe city,California,21336,21296,21423,21175
+162,6,0,73220,0,0,0,A,South Pasadena city,California,26942,26851,26285,25850
+162,6,0,73262,0,0,0,A,South San Francisco city,California,66097,66124,64361,63484
+162,6,0,73962,0,0,0,A,Stanton city,California,37966,37938,38025,38952
+162,6,0,75000,0,0,0,A,Stockton city,California,320810,321023,322607,321819
+162,6,0,75630,0,0,0,A,Suisun City city,California,29517,29470,29243,28949
+162,6,0,77000,0,0,0,A,Sunnyvale city,California,155629,155264,152030,153091
+162,6,0,77364,0,0,0,A,Susanville city,California,16732,16426,15419,13707
+162,6,0,77392,0,0,0,A,Sutter Creek city,California,2651,2654,2699,2705
+162,6,0,77574,0,0,0,A,Taft city,California,8553,7466,7048,7034
+162,6,0,78092,0,0,0,A,Tehachapi city,California,12940,12990,12311,12389
+162,6,0,78106,0,0,0,A,Tehama city,California,434,426,423,423
+162,6,0,78120,0,0,0,A,Temecula city,California,109994,110013,110810,111752
+162,6,0,78148,0,0,0,A,Temple City city,California,36492,36400,35749,35296
+162,6,0,78582,0,0,0,A,Thousand Oaks city,California,126968,126770,126001,124265
+162,6,0,78666,0,0,0,A,Tiburon town,California,9142,9129,9092,8938
+162,6,0,80000,0,0,0,A,Torrance city,California,147071,146589,143509,141126
+162,6,0,80238,0,0,0,A,Tracy city,California,93115,93413,95252,97328
+162,6,0,80448,0,0,0,A,Trinidad city,California,338,337,336,332
+162,6,0,80588,0,0,0,A,Truckee town,California,16724,16735,17038,16850
+162,6,0,80644,0,0,0,A,Tulare city,California,68910,69255,70788,70693
+162,6,0,80686,0,0,0,A,Tulelake city,California,902,900,901,889
+162,6,0,80812,0,0,0,A,Turlock city,California,72692,72694,72216,72309
+162,6,0,80854,0,0,0,A,Tustin city,California,79967,79896,79346,78418
+162,6,0,80994,0,0,0,A,Twentynine Palms city,California,28067,28079,28345,28158
+162,6,0,81134,0,0,0,A,Ukiah city,California,16625,16576,16433,16144
+162,6,0,81204,0,0,0,A,Union City city,California,70140,69985,68363,67039
+162,6,0,81344,0,0,0,A,Upland city,California,79041,79120,79265,78841
+162,6,0,81554,0,0,0,A,Vacaville city,California,102386,101806,101447,101918
+162,6,0,81666,0,0,0,A,Vallejo city,California,126083,125886,124773,123564
+162,6,0,82422,0,0,0,A,Vernon city,California,221,220,215,212
+162,6,0,82590,0,0,0,A,Victorville city,California,134802,134632,135921,137221
+162,6,0,82744,0,0,0,A,Villa Park city,California,5837,5826,5767,5731
+162,6,0,82954,0,0,0,A,Visalia city,California,141574,141859,142795,143966
+162,6,0,82996,0,0,0,A,Vista city,California,98414,98390,98563,97766
+162,6,0,83332,0,0,0,A,Walnut city,California,28437,28347,27776,27356
+162,6,0,83346,0,0,0,A,Walnut Creek city,California,70112,70039,69863,68969
+162,6,0,83542,0,0,0,A,Wasco city,California,27049,25592,26891,27731
+162,6,0,83612,0,0,0,A,Waterford city,California,9121,9136,9160,9335
+162,6,0,83668,0,0,0,A,Watsonville city,California,52595,52506,52017,51525
+162,6,0,83850,0,0,0,A,Weed city,California,2861,2857,2801,2811
+162,6,0,84200,0,0,0,A,West Covina city,California,109501,109129,106868,105013
+162,6,0,84410,0,0,0,A,West Hollywood city,California,35759,35636,34889,34514
+162,6,0,84438,0,0,0,A,Westlake Village city,California,8028,7995,7829,7694
+162,6,0,84550,0,0,0,A,Westminster city,California,90915,90786,90124,89397
+162,6,0,84606,0,0,0,A,Westmorland city,California,2013,2008,2002,1990
+162,6,0,84816,0,0,0,A,West Sacramento city,California,53919,53914,53983,55064
+162,6,0,85012,0,0,0,A,Wheatland city,California,3708,3715,3728,3789
+162,6,0,85292,0,0,0,A,Whittier city,California,87302,87006,85330,84496
+162,6,0,85446,0,0,0,A,Wildomar city,California,36888,36912,37197,37214
+162,6,0,85586,0,0,0,A,Williams city,California,5540,5562,5605,5646
+162,6,0,85600,0,0,0,A,Willits city,California,4984,4969,4963,4885
+162,6,0,85684,0,0,0,A,Willows city,California,6290,6270,6212,6116
+162,6,0,85922,0,0,0,A,Windsor town,California,26353,26307,26138,25789
+162,6,0,86034,0,0,0,A,Winters city,California,7113,7129,7358,7540
+162,6,0,86300,0,0,0,A,Woodlake city,California,7431,7449,7577,7590
+162,6,0,86328,0,0,0,A,Woodland city,California,61047,61051,61538,61462
+162,6,0,86440,0,0,0,A,Woodside town,California,5306,5293,5138,5053
+162,6,0,86832,0,0,0,A,Yorba Linda city,California,68318,68330,67925,67089
+162,6,0,86930,0,0,0,A,Yountville city,California,3431,3427,3420,3356
+162,6,0,86944,0,0,0,A,Yreka city,California,7810,7793,7826,7827
+162,6,0,86972,0,0,0,A,Yuba City city,California,70118,69949,69505,69014
+162,6,0,87042,0,0,0,A,Yucaipa city,California,54552,54586,54713,54420
+162,6,0,87056,0,0,0,A,Yucca Valley town,California,21738,21751,21817,21662
+50,6,1,0,0,0,0,A,Alameda County,California,1682331,1680380,1643837,1628997
+157,6,1,562,0,0,1,A,Alameda city,California,78282,78044,76246,76040
+157,6,1,674,0,0,1,A,Albany city,California,20271,20225,19823,19415
+157,6,1,6000,0,0,1,A,Berkeley city,California,124324,124206,114810,118950
+157,6,1,20018,0,0,1,A,Dublin city,California,72588,72524,71516,72060
+157,6,1,22594,0,0,1,A,Emeryville city,California,12902,12939,12875,12913
+157,6,1,26000,0,0,1,A,Fremont city,California,230493,230194,226532,223871
+157,6,1,33000,0,0,1,A,Hayward city,California,162948,162602,158445,156754
+157,6,1,41992,0,0,1,A,Livermore city,California,87965,87880,86388,84701
+157,6,1,50916,0,0,1,A,Newark city,California,47525,47612,47134,47312
+157,6,1,53000,0,0,1,A,Oakland city,California,440660,440873,436291,430553
+157,6,1,56938,0,0,1,A,Piedmont city,California,11277,11251,11017,10811
+157,6,1,57792,0,0,1,A,Pleasanton city,California,79856,79676,77904,76689
+157,6,1,68084,0,0,1,A,San Leandro city,California,90998,90707,88440,86762
+157,6,1,81204,0,0,1,A,Union City city,California,70140,69985,68363,67039
+157,6,1,99990,0,0,1,S,Balance of Alameda County,California,152102,151662,148053,145127
+50,6,3,0,0,0,1,A,Alpine County,California,1201,1204,1235,1190
+50,6,5,0,0,0,0,A,Amador County,California,40474,40532,41144,41412
+157,6,5,1514,0,0,1,A,Amador City city,California,198,198,201,201
+157,6,5,36672,0,0,1,A,Ione city,California,5142,5171,5234,5364
+157,6,5,36980,0,0,1,A,Jackson city,California,5010,5002,5078,5113
+157,6,5,57834,0,0,1,A,Plymouth city,California,1078,1079,1099,1112
+157,6,5,77392,0,0,1,A,Sutter Creek city,California,2651,2654,2699,2705
+157,6,5,99990,0,0,1,S,Balance of Amador County,California,26395,26428,26833,26917
+50,6,7,0,0,0,0,A,Butte County,California,211631,210135,206190,207303
+157,6,7,6560,0,0,1,A,Biggs city,California,1968,1951,1935,1899
+157,6,7,13014,0,0,1,A,Chico city,California,102816,102135,100162,101299
+157,6,7,31260,0,0,1,A,Gridley city,California,7421,7370,7360,7227
+157,6,7,54386,0,0,1,A,Oroville city,California,20104,19958,19935,20041
+157,6,7,55520,0,0,1,A,Paradise town,California,4764,4744,5274,6516
+157,6,7,99990,0,0,1,S,Balance of Butte County,California,74558,73977,71524,70321
+50,6,9,0,0,0,0,A,Calaveras County,California,45285,45346,46219,46563
+157,6,9,2112,0,0,1,A,Angels city,California,3662,3676,3762,3786
+157,6,9,99990,0,0,1,S,Balance of Calaveras County,California,41623,41670,42457,42777
+50,6,11,0,0,0,0,A,Colusa County,California,21837,21858,21913,21914
+157,6,11,14946,0,0,1,A,Colusa city,California,6404,6398,6396,6368
+157,6,11,85586,0,0,1,A,Williams city,California,5540,5562,5605,5646
+157,6,11,99990,0,0,1,S,Balance of Colusa County,California,9893,9898,9912,9900
+50,6,13,0,0,0,0,A,Contra Costa County,California,1165927,1165986,1163298,1156966
+157,6,13,2252,0,0,1,A,Antioch city,California,115305,115251,114964,115264
+157,6,13,8142,0,0,1,A,Brentwood city,California,64290,64463,64931,66127
+157,6,13,13882,0,0,1,A,Clayton city,California,11072,11062,10985,10904
+157,6,13,16000,0,0,1,A,Concord city,California,125411,125256,124337,122625
+157,6,13,17988,0,0,1,A,Danville town,California,43571,43527,43294,42732
+157,6,13,21796,0,0,1,A,El Cerrito city,California,25958,25967,25878,25583
+157,6,13,33308,0,0,1,A,Hercules city,California,26017,26009,26114,25920
+157,6,13,39122,0,0,1,A,Lafayette city,California,25399,25371,25230,25044
+157,6,13,46114,0,0,1,A,Martinez city,California,37273,37187,36871,36447
+157,6,13,49187,0,0,1,A,Moraga town,California,16877,16868,16834,16707
+157,6,13,53070,0,0,1,A,Oakley city,California,43354,43468,43821,44688
+157,6,13,54232,0,0,1,A,Orinda city,California,19503,19516,19503,19355
+157,6,13,57288,0,0,1,A,Pinole city,California,19029,19003,18858,18582
+157,6,13,57456,0,0,1,A,Pittsburg city,California,76409,76605,76662,77572
+157,6,13,57764,0,0,1,A,Pleasant Hill city,California,34629,34600,34404,33913
+157,6,13,60620,0,0,1,A,Richmond city,California,116432,116367,115731,114301
+157,6,13,68294,0,0,1,A,San Pablo city,California,32122,32078,31847,31389
+157,6,13,68378,0,0,1,A,San Ramon city,California,86332,86616,87023,85953
+157,6,13,83346,0,0,1,A,Walnut Creek city,California,70112,70039,69863,68969
+157,6,13,99990,0,0,1,S,Balance of Contra Costa County,California,176832,176733,176148,174891
+50,6,15,0,0,0,0,A,Del Norte County,California,27745,27601,27553,27082
+157,6,15,17022,0,0,1,A,Crescent City city,California,6673,6511,6170,5983
+157,6,15,99990,0,0,1,S,Balance of Del Norte County,California,21072,21090,21383,21099
+50,6,17,0,0,0,0,A,El Dorado County,California,191184,191220,193590,192646
+157,6,17,57540,0,0,1,A,Placerville city,California,10742,10732,10816,10664
+157,6,17,73108,0,0,1,A,South Lake Tahoe city,California,21336,21296,21423,21175
+157,6,17,99990,0,0,1,S,Balance of El Dorado County,California,159106,159192,161351,160807
+50,6,19,0,0,0,0,A,Fresno County,California,1008650,1009503,1012992,1015190
+157,6,19,14218,0,0,1,A,Clovis city,California,120160,120660,123007,124556
+157,6,19,14274,0,0,1,A,Coalinga city,California,17601,17654,17155,17024
+157,6,19,24134,0,0,1,A,Firebaugh city,California,8098,8089,8109,8418
+157,6,19,25436,0,0,1,A,Fowler city,California,6715,6764,6950,7154
+157,6,19,27000,0,0,1,A,Fresno city,California,542252,542447,543910,545567
+157,6,19,36084,0,0,1,A,Huron city,California,6209,6203,6225,6240
+157,6,19,38226,0,0,1,A,Kerman city,California,16010,16039,16172,16208
+157,6,19,38562,0,0,1,A,Kingsburg city,California,12380,12448,12664,12613
+157,6,19,46828,0,0,1,A,Mendota city,California,12595,12647,12734,12618
+157,6,19,54008,0,0,1,A,Orange Cove city,California,9649,9639,9615,9525
+157,6,19,55856,0,0,1,A,Parlier city,California,14579,14616,14689,14554
+157,6,19,60242,0,0,1,A,Reedley city,California,25230,25221,25174,25441
+157,6,19,67056,0,0,1,A,Sanger city,California,26615,26624,26721,26600
+157,6,19,67126,0,0,1,A,San Joaquin city,California,3702,3698,3689,3704
+157,6,19,70882,0,0,1,A,Selma city,California,24671,24658,24635,24430
+157,6,19,99990,0,0,1,S,Balance of Fresno County,California,162184,162096,161543,160538
+50,6,21,0,0,0,0,A,Glenn County,California,28915,28896,28664,28339
+157,6,21,54274,0,0,1,A,Orland city,California,8306,8302,8311,8217
+157,6,21,85684,0,0,1,A,Willows city,California,6290,6270,6212,6116
+157,6,21,99990,0,0,1,S,Balance of Glenn County,California,14319,14324,14141,14006
+50,6,23,0,0,0,0,A,Humboldt County,California,136465,136261,134836,135010
+157,6,23,2476,0,0,1,A,Arcata city,California,18845,18788,17736,18555
+157,6,23,7162,0,0,1,A,Blue Lake city,California,1204,1200,1196,1183
+157,6,23,23042,0,0,1,A,Eureka city,California,26561,26477,26369,26129
+157,6,23,23910,0,0,1,A,Ferndale city,California,1402,1404,1406,1398
+157,6,23,25296,0,0,1,A,Fortuna city,California,12517,12518,12518,12516
+157,6,23,60900,0,0,1,A,Rio Dell city,California,3379,3374,3388,3358
+157,6,23,80448,0,0,1,A,Trinidad city,California,338,337,336,332
+157,6,23,99990,0,0,1,S,Balance of Humboldt County,California,72219,72163,71887,71539
+50,6,25,0,0,0,0,A,Imperial County,California,179709,179595,179215,178713
+157,6,25,8058,0,0,1,A,Brawley city,California,26421,26414,26543,26862
+157,6,25,9710,0,0,1,A,Calexico city,California,38616,38533,38540,38249
+157,6,25,9878,0,0,1,A,Calipatria city,California,6520,6585,6385,6322
+157,6,25,21782,0,0,1,A,El Centro city,California,44316,44207,44201,43811
+157,6,25,34246,0,0,1,A,Holtville city,California,5607,5600,5583,5513
+157,6,25,36280,0,0,1,A,Imperial city,California,20295,20417,21021,21233
+157,6,25,84606,0,0,1,A,Westmorland city,California,2013,2008,2002,1990
+157,6,25,99990,0,0,1,S,Balance of Imperial County,California,35921,35831,34940,34733
+50,6,27,0,0,0,0,A,Inyo County,California,19025,19001,18927,18718
+157,6,27,6798,0,0,1,A,Bishop city,California,3822,3822,3818,3771
+157,6,27,99990,0,0,1,S,Balance of Inyo County,California,15203,15179,15109,14947
+50,6,29,0,0,0,0,A,Kern County,California,909244,905828,912351,916108
+157,6,29,2924,0,0,1,A,Arvin city,California,19491,19545,19714,19611
+157,6,29,3526,0,0,1,A,Bakersfield city,California,404440,405181,409079,410647
+157,6,29,9780,0,0,1,A,California City city,California,14969,15051,15029,15127
+157,6,29,18394,0,0,1,A,Delano city,California,51420,49852,50668,50843
+157,6,29,44826,0,0,1,A,McFarland city,California,14179,13992,14086,14019
+157,6,29,45736,0,0,1,A,Maricopa city,California,1023,1023,1023,1020
+157,6,29,60704,0,0,1,A,Ridgecrest city,California,27962,27982,28150,28346
+157,6,29,71106,0,0,1,A,Shafter city,California,19956,20023,20113,21282
+157,6,29,77574,0,0,1,A,Taft city,California,8553,7466,7048,7034
+157,6,29,78092,0,0,1,A,Tehachapi city,California,12940,12990,12311,12389
+157,6,29,83542,0,0,1,A,Wasco city,California,27049,25592,26891,27731
+157,6,29,99990,0,0,1,S,Balance of Kern County,California,307262,307131,308239,308059
+50,6,31,0,0,0,0,A,Kings County,California,152488,152790,152679,152981
+157,6,31,3302,0,0,1,A,Avenal city,California,13694,13488,12886,13374
+157,6,31,16224,0,0,1,A,Corcoran city,California,22340,22709,22644,22837
+157,6,31,31960,0,0,1,A,Hanford city,California,58013,58098,58468,58470
+157,6,31,41152,0,0,1,A,Lemoore city,California,27030,27093,27312,27185
+157,6,31,99990,0,0,1,S,Balance of Kings County,California,31411,31402,31369,31115
+50,6,33,0,0,0,0,A,Lake County,California,68158,68195,68584,68191
+157,6,33,13945,0,0,1,A,Clearlake city,California,16687,16702,16805,16693
+157,6,33,39710,0,0,1,A,Lakeport city,California,5029,5033,5063,5026
+157,6,33,99990,0,0,1,S,Balance of Lake County,California,46442,46460,46716,46472
+50,6,35,0,0,0,0,A,Lassen County,California,32730,32317,31813,29904
+157,6,35,77364,0,0,1,A,Susanville city,California,16732,16426,15419,13707
+157,6,35,99990,0,0,1,S,Balance of Lassen County,California,15998,15891,16394,16197
+50,6,37,0,0,0,0,A,Los Angeles County,California,10014042,9992236,9811842,9721138
+157,6,37,394,0,0,1,A,Agoura Hills city,California,20297,20227,19802,19464
+157,6,37,884,0,0,1,A,Alhambra city,California,82868,82657,81168,80259
+157,6,37,2462,0,0,1,A,Arcadia city,California,56664,56466,55334,54857
+157,6,37,2896,0,0,1,A,Artesia city,California,16395,16341,16006,15774
+157,6,37,3274,0,0,1,A,Avalon city,California,3458,3448,3373,3313
+157,6,37,3386,0,0,1,A,Azusa city,California,50265,50154,49289,48824
+157,6,37,3666,0,0,1,A,Baldwin Park city,California,72176,71971,70561,69455
+157,6,37,4870,0,0,1,A,Bell city,California,33561,33458,32774,32466
+157,6,37,4982,0,0,1,A,Bellflower city,California,79216,78975,77411,76405
+157,6,37,4996,0,0,1,A,Bell Gardens city,California,39514,39379,38555,37927
+157,6,37,6308,0,0,1,A,Beverly Hills city,California,32701,32581,31852,31326
+157,6,37,7946,0,0,1,A,Bradbury city,California,925,922,899,886
+157,6,37,8954,0,0,1,A,Burbank city,California,107335,107143,105291,103920
+157,6,37,9598,0,0,1,A,Calabasas city,California,23239,23178,22889,22491
+157,6,37,11530,0,0,1,A,Carson city,California,95553,95286,93285,92388
+157,6,37,12552,0,0,1,A,Cerritos city,California,49573,49402,48340,47475
+157,6,37,13756,0,0,1,A,Claremont city,California,37261,37183,36674,36001
+157,6,37,14974,0,0,1,A,Commerce city,California,12363,12317,12042,11828
+157,6,37,15044,0,0,1,A,Compton city,California,95712,95411,93456,91988
+157,6,37,16742,0,0,1,A,Covina city,California,51275,51173,50370,49489
+157,6,37,17498,0,0,1,A,Cudahy city,California,22808,22740,22256,21969
+157,6,37,17568,0,0,1,A,Culver City city,California,40769,40675,39987,39515
+157,6,37,19192,0,0,1,A,Diamond Bar city,California,55070,54896,53763,52855
+157,6,37,19766,0,0,1,A,Downey city,California,114358,113973,111570,109934
+157,6,37,19990,0,0,1,A,Duarte city,California,21722,21662,21271,21807
+157,6,37,22230,0,0,1,A,El Monte city,California,109447,109111,106918,105312
+157,6,37,22412,0,0,1,A,El Segundo city,California,17265,17212,16867,16622
+157,6,37,28168,0,0,1,A,Gardena city,California,61022,60875,59721,58843
+157,6,37,30000,0,0,1,A,Glendale city,California,196534,195995,192272,189221
+157,6,37,30014,0,0,1,A,Glendora city,California,52577,52497,51592,50824
+157,6,37,32506,0,0,1,A,Hawaiian Gardens city,California,14146,14101,13808,13593
+157,6,37,32548,0,0,1,A,Hawthorne city,California,88077,87804,86010,84563
+157,6,37,33364,0,0,1,A,Hermosa Beach city,California,19736,19687,19278,18985
+157,6,37,33518,0,0,1,A,Hidden Hills city,California,1725,1722,1700,1694
+157,6,37,36056,0,0,1,A,Huntington Park city,California,54883,54712,53584,52633
+157,6,37,36490,0,0,1,A,Industry city,California,261,260,257,255
+157,6,37,36546,0,0,1,A,Inglewood city,California,107759,107384,105097,103621
+157,6,37,36826,0,0,1,A,Irwindale city,California,1467,1462,1438,1413
+157,6,37,39003,0,0,1,A,La Cañada Flintridge city,California,20572,20506,20077,19752
+157,6,37,39304,0,0,1,A,La Habra Heights city,California,5681,5661,5545,5447
+157,6,37,39892,0,0,1,A,Lakewood city,California,82497,82213,80473,79063
+157,6,37,40032,0,0,1,A,La Mirada city,California,47987,47839,46909,46323
+157,6,37,40130,0,0,1,A,Lancaster city,California,173511,173040,170074,169185
+157,6,37,40340,0,0,1,A,La Puente city,California,38054,37964,37232,36636
+157,6,37,40830,0,0,1,A,La Verne city,California,31581,31500,30883,30380
+157,6,37,40886,0,0,1,A,Lawndale city,California,31826,31722,31088,30576
+157,6,37,42468,0,0,1,A,Lomita city,California,20924,20849,20405,20053
+157,6,37,43000,0,0,1,A,Long Beach city,California,466775,465448,454334,451307
+157,6,37,44000,0,0,1,A,Los Angeles city,California,3898767,3895836,3837986,3822238
+157,6,37,44574,0,0,1,A,Lynwood city,California,67256,66815,64824,64086
+157,6,37,45246,0,0,1,A,Malibu city,California,10649,10617,10416,10370
+157,6,37,45400,0,0,1,A,Manhattan Beach city,California,35503,35377,34601,34137
+157,6,37,46492,0,0,1,A,Maywood city,California,25123,25040,24522,24122
+157,6,37,48648,0,0,1,A,Monrovia city,California,37937,37833,37456,36893
+157,6,37,48816,0,0,1,A,Montebello city,California,62623,62410,61125,60569
+157,6,37,48914,0,0,1,A,Monterey Park city,California,61109,60891,59586,58554
+157,6,37,52526,0,0,1,A,Norwalk city,California,102762,102410,100313,98537
+157,6,37,55156,0,0,1,A,Palmdale city,California,169415,168863,165452,163463
+157,6,37,55380,0,0,1,A,Palos Verdes Estates city,California,13353,13309,13026,12792
+157,6,37,55618,0,0,1,A,Paramount city,California,53748,53578,52485,51653
+157,6,37,56000,0,0,1,A,Pasadena city,California,138719,138304,135932,134211
+157,6,37,56924,0,0,1,A,Pico Rivera city,California,62079,61890,60696,59781
+157,6,37,58072,0,0,1,A,Pomona city,California,151445,151033,147125,146017
+157,6,37,59514,0,0,1,A,Rancho Palos Verdes city,California,42279,42140,41256,40527
+157,6,37,60018,0,0,1,A,Redondo Beach city,California,71560,71333,69898,68918
+157,6,37,62602,0,0,1,A,Rolling Hills city,California,1740,1734,1699,1676
+157,6,37,62644,0,0,1,A,Rolling Hills Estates city,California,8276,8263,8146,8018
+157,6,37,62896,0,0,1,A,Rosemead city,California,51187,51082,50221,49791
+157,6,37,66070,0,0,1,A,San Dimas city,California,34920,34804,34086,33535
+157,6,37,66140,0,0,1,A,San Fernando city,California,23966,23970,23757,23685
+157,6,37,67042,0,0,1,A,San Gabriel city,California,39575,39449,38676,38140
+157,6,37,68224,0,0,1,A,San Marino city,California,12511,12476,12240,12039
+157,6,37,69088,0,0,1,A,Santa Clarita city,California,228679,228065,224320,221345
+157,6,37,69154,0,0,1,A,Santa Fe Springs city,California,19210,19149,18755,18439
+157,6,37,70000,0,0,1,A,Santa Monica city,California,93075,92803,91250,89947
+157,6,37,71806,0,0,1,A,Sierra Madre city,California,11275,11238,11005,10809
+157,6,37,71876,0,0,1,A,Signal Hill city,California,11850,11809,11559,11381
+157,6,37,72996,0,0,1,A,South El Monte city,California,19561,19612,19557,19602
+157,6,37,73080,0,0,1,A,South Gate city,California,92727,92434,91012,90926
+157,6,37,73220,0,0,1,A,South Pasadena city,California,26942,26851,26285,25850
+157,6,37,78148,0,0,1,A,Temple City city,California,36492,36400,35749,35296
+157,6,37,80000,0,0,1,A,Torrance city,California,147071,146589,143509,141126
+157,6,37,82422,0,0,1,A,Vernon city,California,221,220,215,212
+157,6,37,83332,0,0,1,A,Walnut city,California,28437,28347,27776,27356
+157,6,37,84200,0,0,1,A,West Covina city,California,109501,109129,106868,105013
+157,6,37,84410,0,0,1,A,West Hollywood city,California,35759,35636,34889,34514
+157,6,37,84438,0,0,1,A,Westlake Village city,California,8028,7995,7829,7694
+157,6,37,85292,0,0,1,A,Whittier city,California,87302,87006,85330,84496
+157,6,37,99990,0,0,1,S,Balance of Los Angeles County,California,1022025,1018314,996630,984463
+50,6,39,0,0,0,0,A,Madera County,California,156259,156343,158910,160256
+157,6,39,13294,0,0,1,A,Chowchilla city,California,19046,18815,18807,18738
+157,6,39,45022,0,0,1,A,Madera city,California,66229,66461,67865,68050
+157,6,39,99990,0,0,1,S,Balance of Madera County,California,70984,71067,72238,73468
+50,6,41,0,0,0,0,A,Marin County,California,262318,261282,259162,256018
+157,6,41,5164,0,0,1,A,Belvedere city,California,2131,2126,2115,2080
+157,6,41,16462,0,0,1,A,Corte Madera town,California,10226,10217,10187,10006
+157,6,41,23168,0,0,1,A,Fairfax town,California,7600,7586,7557,7423
+157,6,41,40438,0,0,1,A,Larkspur city,California,13068,13045,12981,12754
+157,6,41,47710,0,0,1,A,Mill Valley city,California,14230,14211,14157,14006
+157,6,41,52582,0,0,1,A,Novato city,California,53206,53100,52904,52184
+157,6,41,62980,0,0,1,A,Ross town,California,2344,2342,2339,2300
+157,6,41,64434,0,0,1,A,San Anselmo town,California,12831,12804,12747,12569
+157,6,41,68364,0,0,1,A,San Rafael city,California,61277,61130,60814,59971
+157,6,41,70364,0,0,1,A,Sausalito city,California,7267,7252,7219,7095
+157,6,41,78666,0,0,1,A,Tiburon town,California,9142,9129,9092,8938
+157,6,41,99990,0,0,1,S,Balance of Marin County,California,68996,68340,67050,66692
+50,6,43,0,0,0,1,A,Mariposa County,California,17128,17118,17107,17020
+50,6,45,0,0,0,0,A,Mendocino County,California,91595,91361,91003,89783
+157,6,45,25058,0,0,1,A,Fort Bragg city,California,6986,6968,6967,6881
+157,6,45,57876,0,0,1,A,Point Arena city,California,463,466,472,465
+157,6,45,81134,0,0,1,A,Ukiah city,California,16625,16576,16433,16144
+157,6,45,85600,0,0,1,A,Willits city,California,4984,4969,4963,4885
+157,6,45,99990,0,0,1,S,Balance of Mendocino County,California,62537,62382,62168,61408
+50,6,47,0,0,0,0,A,Merced County,California,281202,281814,284458,290014
+157,6,47,3162,0,0,1,A,Atwater city,California,31964,31955,32153,32372
+157,6,47,19612,0,0,1,A,Dos Palos city,California,5800,5797,5819,5820
+157,6,47,31568,0,0,1,A,Gustine city,California,6150,6150,6178,6181
+157,6,47,42006,0,0,1,A,Livingston city,California,14177,14254,14626,14760
+157,6,47,44028,0,0,1,A,Los Banos city,California,45528,45675,46688,47044
+157,6,47,46898,0,0,1,A,Merced city,California,86370,86648,89515,91563
+157,6,47,99990,0,0,1,S,Balance of Merced County,California,91213,91335,89479,92274
+50,6,49,0,0,0,0,A,Modoc County,California,8700,8663,8571,8511
+157,6,49,1444,0,0,1,A,Alturas city,California,2713,2701,2685,2658
+157,6,49,99990,0,0,1,S,Balance of Modoc County,California,5987,5962,5886,5853
+50,6,51,0,0,0,0,A,Mono County,California,13198,13226,13261,12978
+157,6,51,45358,0,0,1,A,Mammoth Lakes town,California,7200,7222,7277,7093
+157,6,51,99990,0,0,1,S,Balance of Mono County,California,5998,6004,5984,5885
+50,6,53,0,0,0,0,A,Monterey County,California,439036,438390,437249,432858
+157,6,53,11250,0,0,1,A,Carmel-by-the-Sea city,California,3214,3210,3193,3146
+157,6,53,18688,0,0,1,A,Del Rey Oaks city,California,1591,1588,1578,1553
+157,6,53,30392,0,0,1,A,Gonzales city,California,8649,8633,8577,8439
+157,6,53,30994,0,0,1,A,Greenfield city,California,18939,18980,19075,19359
+157,6,53,38520,0,0,1,A,King City city,California,13330,13351,13436,13738
+157,6,53,45778,0,0,1,A,Marina city,California,22348,22322,22115,22503
+157,6,53,48872,0,0,1,A,Monterey city,California,30230,30184,29952,29571
+157,6,53,54848,0,0,1,A,Pacific Grove city,California,15100,15075,15000,14791
+157,6,53,64224,0,0,1,A,Salinas city,California,163542,163296,163076,161020
+157,6,53,65112,0,0,1,A,Sand City city,California,322,323,330,328
+157,6,53,70742,0,0,1,A,Seaside city,California,32382,32323,32074,31478
+157,6,53,72520,0,0,1,A,Soledad city,California,24929,24692,24702,24190
+157,6,53,99990,0,0,1,S,Balance of Monterey County,California,104460,104413,104141,102742
+50,6,55,0,0,0,0,A,Napa County,California,138024,137485,136206,134300
+157,6,55,1640,0,0,1,A,American Canyon city,California,21843,21777,21602,21432
+157,6,55,9892,0,0,1,A,Calistoga city,California,5227,5215,5184,5029
+157,6,55,50258,0,0,1,A,Napa city,California,79251,79039,78855,78315
+157,6,55,64140,0,0,1,A,St. Helena city,California,5436,5425,5391,5196
+157,6,55,86930,0,0,1,A,Yountville city,California,3431,3427,3420,3356
+157,6,55,99990,0,0,1,S,Balance of Napa County,California,22836,22602,21754,20972
+50,6,57,0,0,0,0,A,Nevada County,California,102235,102249,103457,102293
+157,6,57,30798,0,0,1,A,Grass Valley city,California,14013,14009,14144,13930
+157,6,57,50874,0,0,1,A,Nevada City city,California,3147,3147,3172,3112
+157,6,57,80588,0,0,1,A,Truckee town,California,16724,16735,17038,16850
+157,6,57,99990,0,0,1,S,Balance of Nevada County,California,68351,68358,69103,68401
+50,6,59,0,0,0,0,A,Orange County,California,3186979,3185516,3161005,3151184
+157,6,59,947,0,0,1,A,Aliso Viejo city,California,52173,52205,51901,51221
+157,6,59,2000,0,0,1,A,Anaheim city,California,346825,347105,346174,344461
+157,6,59,8100,0,0,1,A,Brea city,California,47303,47477,47530,46993
+157,6,59,8786,0,0,1,A,Buena Park city,California,84016,83862,82951,82450
+157,6,59,16532,0,0,1,A,Costa Mesa city,California,111926,111797,110885,109521
+157,6,59,17750,0,0,1,A,Cypress city,California,50144,50171,49858,49243
+157,6,59,17946,0,0,1,A,Dana Point city,California,33100,33066,32794,32465
+157,6,59,25380,0,0,1,A,Fountain Valley city,California,57054,56967,56440,55930
+157,6,59,28000,0,0,1,A,Fullerton city,California,143638,143419,140559,140541
+157,6,59,29000,0,0,1,A,Garden Grove city,California,171973,171759,170511,169254
+157,6,59,36000,0,0,1,A,Huntington Beach city,California,198723,198410,196463,194310
+157,6,59,36770,0,0,1,A,Irvine city,California,307665,308974,305096,313685
+157,6,59,39178,0,0,1,A,Laguna Beach city,California,23034,23000,22775,22583
+157,6,59,39220,0,0,1,A,Laguna Hills city,California,31365,31306,30964,30568
+157,6,59,39248,0,0,1,A,Laguna Niguel city,California,64347,64226,64140,63742
+157,6,59,39259,0,0,1,A,Laguna Woods city,California,17650,17617,17421,17192
+157,6,59,39290,0,0,1,A,La Habra city,California,63118,63096,62599,61978
+157,6,59,39496,0,0,1,A,Lake Forest city,California,85862,85848,85631,85638
+157,6,59,40256,0,0,1,A,La Palma city,California,15588,15559,15388,15194
+157,6,59,43224,0,0,1,A,Los Alamitos city,California,11782,11771,11696,11550
+157,6,59,48256,0,0,1,A,Mission Viejo city,California,93639,93464,92436,91776
+157,6,59,51182,0,0,1,A,Newport Beach city,California,85235,85208,84713,83993
+157,6,59,53980,0,0,1,A,Orange city,California,139902,139428,137295,136178
+157,6,59,57526,0,0,1,A,Placentia city,California,51814,51723,51236,51951
+157,6,59,59587,0,0,1,A,Rancho Santa Margarita city,California,47961,47873,47340,46722
+157,6,59,65084,0,0,1,A,San Clemente city,California,64282,64257,63842,63457
+157,6,59,68028,0,0,1,A,San Juan Capistrano city,California,35198,35180,34940,34548
+157,6,59,69000,0,0,1,A,Santa Ana city,California,310555,309921,308771,308189
+157,6,59,70686,0,0,1,A,Seal Beach city,California,25229,25183,24921,24627
+157,6,59,73962,0,0,1,A,Stanton city,California,37966,37938,38025,38952
+157,6,59,80854,0,0,1,A,Tustin city,California,79967,79896,79346,78418
+157,6,59,82744,0,0,1,A,Villa Park city,California,5837,5826,5767,5731
+157,6,59,84550,0,0,1,A,Westminster city,California,90915,90786,90124,89397
+157,6,59,86832,0,0,1,A,Yorba Linda city,California,68318,68330,67925,67089
+157,6,59,99990,0,0,1,S,Balance of Orange County,California,132875,132868,132548,131637
+50,6,61,0,0,0,0,A,Placer County,California,404740,405889,412789,417772
+157,6,61,3204,0,0,1,A,Auburn city,California,13778,13792,13891,13737
+157,6,61,14498,0,0,1,A,Colfax city,California,1987,1991,2015,2021
+157,6,61,41474,0,0,1,A,Lincoln city,California,49747,49817,50658,52534
+157,6,61,43140,0,0,1,A,Loomis town,California,6831,6833,6871,6856
+157,6,61,62364,0,0,1,A,Rocklin city,California,71598,71861,73082,73857
+157,6,61,62938,0,0,1,A,Roseville city,California,147796,148486,152095,154817
+157,6,61,99990,0,0,1,S,Balance of Placer County,California,113003,113109,114177,113950
+50,6,63,0,0,0,0,A,Plumas County,California,19796,19749,19940,19351
+157,6,63,58352,0,0,1,A,Portola city,California,2098,2094,2108,2041
+157,6,63,99990,0,0,1,S,Balance of Plumas County,California,17698,17655,17832,17310
+50,6,65,0,0,0,0,A,Riverside County,California,2418177,2422847,2453178,2473902
+157,6,65,3820,0,0,1,A,Banning city,California,29522,29526,30293,30683
+157,6,65,4758,0,0,1,A,Beaumont city,California,53045,53523,55271,56349
+157,6,65,7218,0,0,1,A,Blythe city,California,18306,18020,17343,17358
+157,6,65,9864,0,0,1,A,Calimesa city,California,10023,10165,10891,11017
+157,6,65,10928,0,0,1,A,Canyon Lake city,California,11079,11084,11159,11142
+157,6,65,12048,0,0,1,A,Cathedral City city,California,51498,51569,52230,52494
+157,6,65,14260,0,0,1,A,Coachella city,California,41938,42025,42543,42835
+157,6,65,16350,0,0,1,A,Corona city,California,157154,157549,159782,159567
+157,6,65,18996,0,0,1,A,Desert Hot Springs city,California,32499,32498,32716,33091
+157,6,65,21230,0,0,1,A,Eastvale city,California,69752,69966,71341,71024
+157,6,65,33182,0,0,1,A,Hemet city,California,89818,89844,90480,90689
+157,6,65,36434,0,0,1,A,Indian Wells city,California,4768,4775,4844,4860
+157,6,65,36448,0,0,1,A,Indio city,California,89126,89274,90528,91980
+157,6,65,37692,0,0,1,A,Jurupa Valley city,California,105054,105313,106982,107609
+157,6,65,39486,0,0,1,A,Lake Elsinore city,California,70244,70333,71505,71898
+157,6,65,40354,0,0,1,A,La Quinta city,California,37554,37630,38169,38392
+157,6,65,46842,0,0,1,A,Menifee city,California,102526,103158,106365,109399
+157,6,65,49270,0,0,1,A,Moreno Valley city,California,208640,209107,211564,211924
+157,6,65,50076,0,0,1,A,Murrieta city,California,110953,111318,113006,113783
+157,6,65,51560,0,0,1,A,Norco city,California,26299,25394,24671,25042
+157,6,65,55184,0,0,1,A,Palm Desert city,California,51167,51200,51591,51583
+157,6,65,55254,0,0,1,A,Palm Springs city,California,44581,44624,45079,45223
+157,6,65,56700,0,0,1,A,Perris city,California,78705,78861,79825,80263
+157,6,65,59500,0,0,1,A,Rancho Mirage city,California,16990,17044,17339,17633
+157,6,65,62000,0,0,1,A,Riverside city,California,315014,315469,313912,320764
+157,6,65,67112,0,0,1,A,San Jacinto city,California,53894,54064,55287,55470
+157,6,65,78120,0,0,1,A,Temecula city,California,109994,110013,110810,111752
+157,6,65,85446,0,0,1,A,Wildomar city,California,36888,36912,37197,37214
+157,6,65,99990,0,0,1,S,Balance of Riverside County,California,391146,392589,400455,402864
+50,6,67,0,0,0,0,A,Sacramento County,California,1585046,1586465,1588106,1584169
+157,6,67,13588,0,0,1,A,Citrus Heights city,California,87575,87521,87111,86433
+157,6,67,22020,0,0,1,A,Elk Grove city,California,176141,176732,178283,177558
+157,6,67,24638,0,0,1,A,Folsom city,California,80463,80749,81687,83269
+157,6,67,28112,0,0,1,A,Galt city,California,25387,25405,25400,25411
+157,6,67,36882,0,0,1,A,Isleton city,California,797,797,793,782
+157,6,67,59444,0,0,1,A,Rancho Cordova city,California,79332,79503,80210,80598
+157,6,67,64000,0,0,1,A,Sacramento city,California,524924,525668,525951,528001
+157,6,67,99990,0,0,1,S,Balance of Sacramento County,California,610427,610090,608671,602117
+50,6,69,0,0,0,0,A,San Benito County,California,64207,64521,66675,67579
+157,6,69,34120,0,0,1,A,Hollister city,California,41682,41909,43326,44218
+157,6,69,68014,0,0,1,A,San Juan Bautista city,California,2085,2091,2141,2124
+157,6,69,99990,0,0,1,S,Balance of San Benito County,California,20440,20521,21208,21237
+50,6,71,0,0,0,0,A,San Bernardino County,California,2181662,2183239,2192882,2193656
+157,6,71,296,0,0,1,A,Adelanto city,California,38040,38128,38436,38783
+157,6,71,2364,0,0,1,A,Apple Valley town,California,75789,75874,76158,75867
+157,6,71,4030,0,0,1,A,Barstow city,California,25409,25419,25452,25231
+157,6,71,6434,0,0,1,A,Big Bear Lake city,California,5044,5049,5065,5031
+157,6,71,13210,0,0,1,A,Chino city,California,91387,91131,91716,93140
+157,6,71,13214,0,0,1,A,Chino Hills city,California,78426,78468,78579,77949
+157,6,71,14890,0,0,1,A,Colton city,California,53892,53970,54272,53918
+157,6,71,24680,0,0,1,A,Fontana city,California,208387,208620,210540,212475
+157,6,71,30658,0,0,1,A,Grand Terrace city,California,13145,13166,13218,13109
+157,6,71,33434,0,0,1,A,Hesperia city,California,99838,100090,100847,100744
+157,6,71,33588,0,0,1,A,Highland city,California,56996,57034,57115,56705
+157,6,71,42370,0,0,1,A,Loma Linda city,California,24789,24828,25096,25129
+157,6,71,48788,0,0,1,A,Montclair city,California,37886,37904,38040,37714
+157,6,71,50734,0,0,1,A,Needles city,California,4930,4921,4897,4858
+157,6,71,53896,0,0,1,A,Ontario city,California,175266,175852,177845,179061
+157,6,71,59451,0,0,1,A,Rancho Cucamonga city,California,174624,174571,175169,176336
+157,6,71,59962,0,0,1,A,Redlands city,California,73170,73257,73538,73849
+157,6,71,60466,0,0,1,A,Rialto city,California,104048,104125,104305,103545
+157,6,71,65000,0,0,1,A,San Bernardino city,California,222068,222028,221242,220328
+157,6,71,80994,0,0,1,A,Twentynine Palms city,California,28067,28079,28345,28158
+157,6,71,81344,0,0,1,A,Upland city,California,79041,79120,79265,78841
+157,6,71,82590,0,0,1,A,Victorville city,California,134802,134632,135921,137221
+157,6,71,87042,0,0,1,A,Yucaipa city,California,54552,54586,54713,54420
+157,6,71,87056,0,0,1,A,Yucca Valley town,California,21738,21751,21817,21662
+157,6,71,99990,0,0,1,S,Balance of San Bernardino County,California,300328,300636,301291,299582
+50,6,73,0,0,0,0,A,San Diego County,California,3298635,3296045,3274954,3276208
+157,6,73,11194,0,0,1,A,Carlsbad city,California,114735,114896,115224,114160
+157,6,73,13392,0,0,1,A,Chula Vista city,California,275500,276041,277008,279170
+157,6,73,16378,0,0,1,A,Coronado city,California,20194,18136,19040,18702
+157,6,73,18506,0,0,1,A,Del Mar city,California,3950,3946,3918,3882
+157,6,73,21712,0,0,1,A,El Cajon city,California,106183,106126,105474,104414
+157,6,73,22678,0,0,1,A,Encinitas city,California,62002,61988,61768,61369
+157,6,73,22804,0,0,1,A,Escondido city,California,151074,151139,150679,150270
+157,6,73,36294,0,0,1,A,Imperial Beach city,California,26131,26127,25997,25791
+157,6,73,40004,0,0,1,A,La Mesa city,California,61119,61070,60733,60360
+157,6,73,41124,0,0,1,A,Lemon Grove city,California,27635,27614,27431,27224
+157,6,73,50398,0,0,1,A,National City city,California,56172,56115,55927,55550
+157,6,73,53322,0,0,1,A,Oceanside city,California,174048,173914,172919,172199
+157,6,73,58520,0,0,1,A,Poway city,California,48837,48779,48408,48078
+157,6,73,66000,0,0,1,A,San Diego city,California,1386960,1386872,1374484,1381162
+157,6,73,68196,0,0,1,A,San Marcos city,California,94862,94900,93756,94854
+157,6,73,70224,0,0,1,A,Santee city,California,60047,59952,59296,59051
+157,6,73,72506,0,0,1,A,Solana Beach city,California,12938,12931,12854,12802
+157,6,73,82996,0,0,1,A,Vista city,California,98414,98390,98563,97766
+157,6,73,99990,0,0,1,S,Balance of San Diego County,California,517834,517109,511475,509404
+50,6,75,0,0,0,0,C,San Francisco County,California,873959,870393,811253,808437
+157,6,75,67000,0,0,1,A,San Francisco city,California,873959,870393,811253,808437
+50,6,77,0,0,0,0,A,San Joaquin County,California,779227,780558,788140,793229
+157,6,77,22790,0,0,1,A,Escalon city,California,7471,7477,7510,7448
+157,6,77,40704,0,0,1,A,Lathrop city,California,28702,29052,30601,33670
+157,6,77,42202,0,0,1,A,Lodi city,California,66336,66443,67023,67258
+157,6,77,45484,0,0,1,A,Manteca city,California,83507,83834,85716,86928
+157,6,77,61026,0,0,1,A,Ripon city,California,16016,16074,16424,16272
+157,6,77,75000,0,0,1,A,Stockton city,California,320810,321023,322607,321819
+157,6,77,80238,0,0,1,A,Tracy city,California,93115,93413,95252,97328
+157,6,77,99990,0,0,1,S,Balance of San Joaquin County,California,163270,163242,163007,162506
+50,6,79,0,0,0,0,A,San Luis Obispo County,California,282443,281879,279298,282013
+157,6,79,2868,0,0,1,A,Arroyo Grande city,California,18436,18420,18465,18380
+157,6,79,3064,0,0,1,A,Atascadero city,California,29776,29736,29723,29684
+157,6,79,22300,0,0,1,A,El Paso de Robles (Paso Robles) city,California,31496,31555,31777,31544
+157,6,79,31393,0,0,1,A,Grover Beach city,California,12707,12696,12719,12619
+157,6,79,49362,0,0,1,A,Morro Bay city,California,10757,10751,10785,10696
+157,6,79,57414,0,0,1,A,Pismo Beach city,California,8073,8059,8041,8044
+157,6,79,68154,0,0,1,A,San Luis Obispo city,California,47107,47152,47633,48341
+157,6,79,99990,0,0,1,S,Balance of San Luis Obispo County,California,124091,123510,120155,122705
+50,6,81,0,0,0,0,A,San Mateo County,California,764432,762511,739060,729181
+157,6,81,3092,0,0,1,A,Atherton town,California,7186,7165,6970,6898
+157,6,81,5108,0,0,1,A,Belmont city,California,28332,28234,27305,26773
+157,6,81,8310,0,0,1,A,Brisbane city,California,4852,4838,4675,4597
+157,6,81,9066,0,0,1,A,Burlingame city,California,31385,31270,30178,30559
+157,6,81,14736,0,0,1,A,Colma town,California,1502,1544,1580,1550
+157,6,81,17918,0,0,1,A,Daly City city,California,104973,104633,101482,100007
+157,6,81,20956,0,0,1,A,East Palo Alto city,California,30040,29931,28897,28383
+157,6,81,25338,0,0,1,A,Foster City city,California,33809,33685,32575,32026
+157,6,81,31708,0,0,1,A,Half Moon Bay city,California,11802,11765,11381,11176
+157,6,81,33798,0,0,1,A,Hillsborough town,California,11384,11358,11030,10956
+157,6,81,46870,0,0,1,A,Menlo Park city,California,33784,33669,32549,32295
+157,6,81,47486,0,0,1,A,Millbrae city,California,23213,23128,22317,22071
+157,6,81,54806,0,0,1,A,Pacifica city,California,38633,38496,37155,36517
+157,6,81,58380,0,0,1,A,Portola Valley town,California,4453,4441,4296,4244
+157,6,81,60102,0,0,1,A,Redwood City city,California,84303,84131,81522,80512
+157,6,81,65028,0,0,1,A,San Bruno city,California,43893,43783,42349,41533
+157,6,81,65070,0,0,1,A,San Carlos city,California,30726,30793,30079,29586
+157,6,81,68252,0,0,1,A,San Mateo city,California,105665,105327,102400,100984
+157,6,81,73262,0,0,1,A,South San Francisco city,California,66097,66124,64361,63484
+157,6,81,86440,0,0,1,A,Woodside town,California,5306,5293,5138,5053
+157,6,81,99990,0,0,1,S,Balance of San Mateo County,California,63094,62903,60821,59977
+50,6,83,0,0,0,0,A,Santa Barbara County,California,448217,448244,437434,443837
+157,6,83,8758,0,0,1,A,Buellton city,California,5160,5168,5161,5106
+157,6,83,11446,0,0,1,A,Carpinteria city,California,13261,13239,13115,12950
+157,6,83,30378,0,0,1,A,Goleta city,California,32696,32738,32841,32432
+157,6,83,31414,0,0,1,A,Guadalupe city,California,8055,8124,8537,8657
+157,6,83,42524,0,0,1,A,Lompoc city,California,44449,44403,43278,43736
+157,6,83,69070,0,0,1,A,Santa Barbara city,California,88676,88676,88316,87533
+157,6,83,69196,0,0,1,A,Santa Maria city,California,109695,109742,109647,110125
+157,6,83,72576,0,0,1,A,Solvang city,California,6126,6117,6058,5986
+157,6,83,99990,0,0,1,S,Balance of Santa Barbara County,California,140099,140037,130481,137312
+50,6,85,0,0,0,0,A,Santa Clara County,California,1936274,1931026,1886595,1870945
+157,6,85,10345,0,0,1,A,Campbell city,California,43958,43831,42753,42286
+157,6,85,17610,0,0,1,A,Cupertino city,California,60363,60157,58578,57856
+157,6,85,29504,0,0,1,A,Gilroy city,California,59532,59383,58115,58005
+157,6,85,43280,0,0,1,A,Los Altos city,California,31467,31353,30554,30424
+157,6,85,43294,0,0,1,A,Los Altos Hills town,California,8516,8490,8294,8168
+157,6,85,44112,0,0,1,A,Los Gatos town,California,33539,33427,32582,32402
+157,6,85,47766,0,0,1,A,Milpitas city,California,80271,80127,78218,77738
+157,6,85,48956,0,0,1,A,Monte Sereno city,California,3481,3471,3389,3343
+157,6,85,49278,0,0,1,A,Morgan Hill city,California,45481,45492,45386,44973
+157,6,85,49670,0,0,1,A,Mountain View city,California,82534,82430,81675,81059
+157,6,85,55282,0,0,1,A,Palo Alto city,California,68586,68385,66735,66010
+157,6,85,68000,0,0,1,A,San Jose city,California,1013221,1009830,981466,971233
+157,6,85,69084,0,0,1,A,Santa Clara city,California,127861,127894,127958,126930
+157,6,85,70280,0,0,1,A,Saratoga city,California,31046,30941,30132,29903
+157,6,85,77000,0,0,1,A,Sunnyvale city,California,155629,155264,152030,153091
+157,6,85,99990,0,0,1,S,Balance of Santa Clara County,California,90789,90551,88730,87524
+50,6,87,0,0,0,0,A,Santa Cruz County,California,270869,270462,260495,264370
+157,6,87,11040,0,0,1,A,Capitola city,California,9939,9923,9837,9659
+157,6,87,69112,0,0,1,A,Santa Cruz city,California,62968,62885,54941,61800
+157,6,87,70588,0,0,1,A,Scotts Valley city,California,12233,12235,12215,12073
+157,6,87,83668,0,0,1,A,Watsonville city,California,52595,52506,52017,51525
+157,6,87,99990,0,0,1,S,Balance of Santa Cruz County,California,133134,132913,131485,129313
+50,6,89,0,0,0,0,A,Shasta County,California,182152,181984,181981,180930
+157,6,89,2042,0,0,1,A,Anderson city,California,11325,11330,11380,11307
+157,6,89,59920,0,0,1,A,Redding city,California,93609,93479,93422,92906
+157,6,89,71225,0,0,1,A,Shasta Lake city,California,10364,10371,10407,10335
+157,6,89,99990,0,0,1,S,Balance of Shasta County,California,66854,66804,66772,66382
+50,6,91,0,0,0,0,A,Sierra County,California,3234,3228,3295,3217
+157,6,91,44364,0,0,1,A,Loyalton city,California,740,738,755,738
+157,6,91,99990,0,0,1,S,Balance of Sierra County,California,2494,2490,2540,2479
+50,6,93,0,0,0,0,A,Siskiyou County,California,44075,43991,44026,43660
+157,6,93,19584,0,0,1,A,Dorris city,California,862,860,864,851
+157,6,93,20242,0,0,1,A,Dunsmuir city,California,1706,1702,1711,1687
+157,6,93,22972,0,0,1,A,Etna city,California,676,675,679,671
+157,6,93,25128,0,0,1,A,Fort Jones city,California,695,693,696,689
+157,6,93,48690,0,0,1,A,Montague city,California,1219,1216,1223,1209
+157,6,93,49852,0,0,1,A,Mount Shasta city,California,3224,3219,3236,3192
+157,6,93,80686,0,0,1,A,Tulelake city,California,902,900,901,889
+157,6,93,83850,0,0,1,A,Weed city,California,2861,2857,2801,2811
+157,6,93,86944,0,0,1,A,Yreka city,California,7810,7793,7826,7827
+157,6,93,99990,0,0,1,S,Balance of Siskiyou County,California,24120,24076,24089,23834
+50,6,95,0,0,0,0,A,Solano County,California,453490,452698,450350,448747
+157,6,95,5290,0,0,1,A,Benicia city,California,27135,27091,26891,26567
+157,6,95,19402,0,0,1,A,Dixon city,California,18989,18986,19028,19143
+157,6,95,23182,0,0,1,A,Fairfield city,California,119872,119874,119835,119338
+157,6,95,60984,0,0,1,A,Rio Vista city,California,10016,10105,10246,10375
+157,6,95,75630,0,0,1,A,Suisun City city,California,29517,29470,29243,28949
+157,6,95,81554,0,0,1,A,Vacaville city,California,102386,101806,101447,101918
+157,6,95,81666,0,0,1,A,Vallejo city,California,126083,125886,124773,123564
+157,6,95,99990,0,0,1,S,Balance of Solano County,California,19492,19480,18887,18893
+50,6,97,0,0,0,0,A,Sonoma County,California,488875,488281,484315,482650
+157,6,97,14190,0,0,1,A,Cloverdale city,California,8998,8993,8986,8809
+157,6,97,16560,0,0,1,A,Cotati city,California,7592,7580,7529,7453
+157,6,97,33056,0,0,1,A,Healdsburg city,California,11349,11347,11318,11709
+157,6,97,56784,0,0,1,A,Petaluma city,California,59778,59776,59589,58652
+157,6,97,62546,0,0,1,A,Rohnert Park city,California,44398,44436,44573,44326
+157,6,97,70098,0,0,1,A,Santa Rosa city,California,178128,177835,177149,177181
+157,6,97,70770,0,0,1,A,Sebastopol city,California,7529,7521,7477,7338
+157,6,97,72646,0,0,1,A,Sonoma city,California,10734,10719,10669,10466
+157,6,97,85922,0,0,1,A,Windsor town,California,26353,26307,26138,25789
+157,6,97,99990,0,0,1,S,Balance of Sonoma County,California,134016,133767,130887,130927
+50,6,99,0,0,0,0,A,Stanislaus County,California,552880,553217,552851,551275
+157,6,99,12524,0,0,1,A,Ceres city,California,49279,49312,49308,48988
+157,6,99,34904,0,0,1,A,Hughson city,California,7488,7499,7522,7734
+157,6,99,48354,0,0,1,A,Modesto city,California,218467,218654,218948,218069
+157,6,99,51140,0,0,1,A,Newman city,California,12389,12387,12367,12272
+157,6,99,52694,0,0,1,A,Oakdale city,California,23182,23201,23247,23176
+157,6,99,56112,0,0,1,A,Patterson city,California,23784,23788,23813,23833
+157,6,99,61068,0,0,1,A,Riverbank city,California,24862,24872,24858,24826
+157,6,99,80812,0,0,1,A,Turlock city,California,72692,72694,72216,72309
+157,6,99,83612,0,0,1,A,Waterford city,California,9121,9136,9160,9335
+157,6,99,99990,0,0,1,S,Balance of Stanislaus County,California,111616,111674,111412,110733
+50,6,101,0,0,0,0,A,Sutter County,California,99631,99464,99038,98503
+157,6,101,41936,0,0,1,A,Live Oak city,California,9110,9152,9295,9428
+157,6,101,86972,0,0,1,A,Yuba City city,California,70118,69949,69505,69014
+157,6,101,99990,0,0,1,S,Balance of Sutter County,California,20403,20363,20238,20061
+50,6,103,0,0,0,0,A,Tehama County,California,65831,65682,65380,65245
+157,6,103,16322,0,0,1,A,Corning city,California,8243,8232,8196,8226
+157,6,103,59892,0,0,1,A,Red Bluff city,California,14709,14666,14575,14416
+157,6,103,78106,0,0,1,A,Tehama city,California,434,426,423,423
+157,6,103,99990,0,0,1,S,Balance of Tehama County,California,42445,42358,42186,42180
+50,6,105,0,0,0,1,A,Trinity County,California,16112,16089,16061,15781
+50,6,107,0,0,0,0,A,Tulare County,California,473117,473891,476946,477544
+157,6,107,19318,0,0,1,A,Dinuba city,California,24599,24666,25167,25285
+157,6,107,23126,0,0,1,A,Exeter city,California,10323,10327,10321,10267
+157,6,107,23616,0,0,1,A,Farmersville city,California,10408,10408,10377,10324
+157,6,107,41712,0,0,1,A,Lindsay city,California,12652,12650,12627,12537
+157,6,107,58240,0,0,1,A,Porterville city,California,62629,62666,62788,62998
+157,6,107,80644,0,0,1,A,Tulare city,California,68910,69255,70788,70693
+157,6,107,82954,0,0,1,A,Visalia city,California,141574,141859,142795,143966
+157,6,107,86300,0,0,1,A,Woodlake city,California,7431,7449,7577,7590
+157,6,107,99990,0,0,1,S,Balance of Tulare County,California,134591,134611,134506,133884
+50,6,109,0,0,0,0,A,Tuolumne County,California,55623,55374,55065,54531
+157,6,109,72674,0,0,1,A,Sonora city,California,5008,5000,5008,4956
+157,6,109,99990,0,0,1,S,Balance of Tuolumne County,California,50615,50374,50057,49575
+50,6,111,0,0,0,0,A,Ventura County,California,843843,843310,839358,832605
+157,6,111,10046,0,0,1,A,Camarillo city,California,70740,70830,70904,70282
+157,6,111,24092,0,0,1,A,Fillmore city,California,16426,16409,16508,16657
+157,6,111,49138,0,0,1,A,Moorpark city,California,36290,36228,35974,35514
+157,6,111,53476,0,0,1,A,Ojai city,California,7627,7622,7604,7540
+157,6,111,54652,0,0,1,A,Oxnard city,California,202067,202244,202054,200415
+157,6,111,58296,0,0,1,A,Port Hueneme city,California,21959,21960,21735,21407
+157,6,111,65042,0,0,1,A,San Buenaventura (Ventura) city,California,110736,110518,110027,109527
+157,6,111,70042,0,0,1,A,Santa Paula city,California,30673,30646,30763,31018
+157,6,111,72016,0,0,1,A,Simi Valley city,California,126373,126335,126053,124398
+157,6,111,78582,0,0,1,A,Thousand Oaks city,California,126968,126770,126001,124265
+157,6,111,99990,0,0,1,S,Balance of Ventura County,California,93984,93748,91735,91582
+50,6,113,0,0,0,0,A,Yolo County,California,216405,216291,213039,222115
+157,6,113,18100,0,0,1,A,Davis city,California,66858,66760,67066,67048
+157,6,113,84816,0,0,1,A,West Sacramento city,California,53919,53914,53983,55064
+157,6,113,86034,0,0,1,A,Winters city,California,7113,7129,7358,7540
+157,6,113,86328,0,0,1,A,Woodland city,California,61047,61051,61538,61462
+157,6,113,99990,0,0,1,S,Balance of Yolo County,California,27468,27437,23094,31001
+50,6,115,0,0,0,0,A,Yuba County,California,81578,81994,83216,84310
+157,6,115,46170,0,0,1,A,Marysville city,California,12841,12854,12715,12704
+157,6,115,85012,0,0,1,A,Wheatland city,California,3708,3715,3728,3789
+157,6,115,99990,0,0,1,S,Balance of Yuba County,California,65029,65425,66773,67817
