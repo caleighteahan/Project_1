@@ -22,3 +22,5 @@ On the other hand, California Resident population has significantly reduced, and
 
 Despite this population decline, our analysis was not able to ultimately prove our hypothesis that the Covid-19 pandemic had a negative and long lasting effect on the total California real estate market. 
 
+Our data sources in the folder labeled 'data' and our code in the folder 'Our_Notebooks"
+
